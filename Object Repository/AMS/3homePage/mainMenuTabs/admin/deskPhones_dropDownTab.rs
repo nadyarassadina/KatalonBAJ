@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>deskPhones_dropDownTab</name>
+   <tag></tag>
+   <elementGuidId>688ef698-a5a2-4f43-8942-37b86a95b3d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/div/div/div[2]/nav/ul/li[8]/ul/li[13]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Desk Phones List&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1441d7a7-9588-4fe6-b719-71da7c1106c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Admin/DeskPhoneList</value>
+      <webElementGuid>4d67b836-83b6-44b9-a43d-7cdd8ef7ea30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Desk Phones List</value>
+      <webElementGuid>968787b3-fa88-4ff1-99d0-c753181d2664</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Desk Phones</value>
+      <webElementGuid>370ef511-d259-4109-84ee-7e448c6d466b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;top_wrapper&quot;]/header[@id=&quot;header&quot;]/header[@id=&quot;header&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row header flex-bottom&quot;]/div[@class=&quot;col-md-12&quot;]/nav[1]/ul[@class=&quot;navigation&quot;]/li[8]/ul[@class=&quot;show-sub-menu&quot;]/li[13]/a[1]</value>
+      <webElementGuid>d1376204-4a2d-4f9c-8103-59a17ed2d07f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/div/div/div[2]/nav/ul/li[8]/ul/li[13]/a</value>
+      <webElementGuid>12c72386-5cae-4b71-acbc-b7efc7700a18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Desk Phones')]</value>
+      <webElementGuid>816a4612-04e3-48fb-9619-edf07295d106</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Images'])[1]/following::a[1]</value>
+      <webElementGuid>2a6681d7-c2c9-4371-bfd8-f358fe4ab844</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Peak Schedule'])[1]/following::a[2]</value>
+      <webElementGuid>ad92418b-3d07-45f2-9faa-5a1f4abbaab6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Airport Manager'])[1]/preceding::a[1]</value>
+      <webElementGuid>429f3c74-ddf5-4079-aee9-dc7742630447</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configuration Settings'])[1]/preceding::a[2]</value>
+      <webElementGuid>1452eb67-1a8a-4fd2-94ef-f36c6fab277d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Desk Phones']/parent::*</value>
+      <webElementGuid>02cfa0ee-12bb-4453-8730-fd88bdfae9aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Admin/DeskPhoneList')]</value>
+      <webElementGuid>f1cf5460-367b-443a-b231-5b2def7209d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[13]/a</value>
+      <webElementGuid>6d1de62e-57d8-4fb5-a319-316c0abe1f16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Admin/DeskPhoneList' and @title = 'Desk Phones List' and (text() = 'Desk Phones' or . = 'Desk Phones')]</value>
+      <webElementGuid>0b36a87d-b014-4559-be7d-49f347c40b0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

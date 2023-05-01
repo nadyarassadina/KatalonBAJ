@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>moduleAccess_dropDownTab</name>
+   <tag></tag>
+   <elementGuidId>13a8424b-578c-4d09-92fd-8ab532c55b7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/div/div/div[2]/nav/ul/li[8]/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Module Access&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>aff30a58-a494-4a26-9ef1-a709d8123a3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Admin/ModuleAccess</value>
+      <webElementGuid>c0deea46-6997-41d2-b823-ae68575769aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Module Access</value>
+      <webElementGuid>9ef16c1a-7e46-4e2e-9d35-c54ec1d0954d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Module Access</value>
+      <webElementGuid>8c9a8d8f-d55d-4a68-9c81-6f85259dc5d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;top_wrapper&quot;]/header[@id=&quot;header&quot;]/header[@id=&quot;header&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row header flex-bottom&quot;]/div[@class=&quot;col-md-12&quot;]/nav[1]/ul[@class=&quot;navigation&quot;]/li[8]/ul[@class=&quot;show-sub-menu&quot;]/li[3]/a[1]</value>
+      <webElementGuid>518ec183-a298-4a14-800a-9fbe3f835669</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/div/div/div[2]/nav/ul/li[8]/ul/li[3]/a</value>
+      <webElementGuid>a4c0090e-cf8f-456f-b8eb-f32636ea8384</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Module Access')]</value>
+      <webElementGuid>c8821a6c-50ae-4368-9ba8-713895d31e04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page Access'])[1]/following::a[1]</value>
+      <webElementGuid>b8af66f3-2159-45e2-98e7-3d0367ff58f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User List'])[1]/following::a[2]</value>
+      <webElementGuid>0fab7828-a84b-4a19-bab9-840a8b499bf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add User'])[1]/preceding::a[1]</value>
+      <webElementGuid>2779eb31-89b4-4ee6-a3cb-6843500b0614</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Client Assignment'])[1]/preceding::a[2]</value>
+      <webElementGuid>9bed2bd1-3e52-422d-8049-51bf5473c3bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Module Access']/parent::*</value>
+      <webElementGuid>c35d06ef-8715-4cb1-9084-e1e84b6bb21f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Admin/ModuleAccess')]</value>
+      <webElementGuid>3f482c6a-b0bf-4a47-8219-49fa400880d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/ul/li[3]/a</value>
+      <webElementGuid>a9c456a6-80d3-43d5-822a-d5fc94c2c1f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Admin/ModuleAccess' and @title = 'Module Access' and (text() = 'Module Access' or . = 'Module Access')]</value>
+      <webElementGuid>42e9d0a0-c6ce-4ee1-92c4-87e8ab9eb2c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

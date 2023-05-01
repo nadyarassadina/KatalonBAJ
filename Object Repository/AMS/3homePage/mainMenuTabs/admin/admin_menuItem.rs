@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>admin_menuItem</name>
+   <tag></tag>
+   <elementGuidId>d439578a-63fc-4a08-93cf-7359ee8df5dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/div/div/div[2]/nav/ul/li[8]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Admin&quot;] > span.label-nav</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f7c4437f-eef3-4e04-8da2-867f87ca94d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-nav</value>
+      <webElementGuid>3d34904b-bb8d-467e-9de9-3274d3a3a3d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                Admin
+                                            </value>
+      <webElementGuid>3b759fd3-0cfc-4850-ae01-eab9cf7f823e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;top_wrapper&quot;]/header[@id=&quot;header&quot;]/header[@id=&quot;header&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row header flex-bottom&quot;]/div[@class=&quot;col-md-12&quot;]/nav[1]/ul[@class=&quot;navigation&quot;]/li[8]/a[1]/span[@class=&quot;label-nav&quot;]</value>
+      <webElementGuid>6fc4d65b-4589-4dd6-a12d-c235f0a9e321</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/div/div/div[2]/nav/ul/li[8]/a/span</value>
+      <webElementGuid>2260446b-7ee4-402d-b475-87becff89643</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lead Report'])[1]/following::span[1]</value>
+      <webElementGuid>7433ea54-16c6-42f8-89e0-6582bcac0c5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flights Dashboard'])[1]/following::span[1]</value>
+      <webElementGuid>f131f5de-0692-4df4-86fc-ca43b479e792</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User List'])[1]/preceding::span[1]</value>
+      <webElementGuid>eec9dfb3-d67f-4fbb-9bbe-003cf16b9ada</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page Access'])[1]/preceding::span[1]</value>
+      <webElementGuid>e664ec65-7f9c-4ff2-9054-c1e3999c5070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Admin']/parent::*</value>
+      <webElementGuid>7e4e08d3-3ca1-4696-a5c0-847e8651431d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/a/span</value>
+      <webElementGuid>b4220fbf-1c45-461a-b635-3dda2e6bfcfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+                                                Admin
+                                            ' or . = '
+                                                Admin
+                                            ')]</value>
+      <webElementGuid>bdfba374-a2f6-43ac-bbd9-bcb26cda3f18</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

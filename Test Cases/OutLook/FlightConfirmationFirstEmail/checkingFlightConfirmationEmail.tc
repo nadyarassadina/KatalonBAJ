@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>checkingFlightConfirmationEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1d93efa-9d76-4a2e-9d56-599c6e984002</testCaseGuid>
+</TestCaseEntity>

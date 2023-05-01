@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>leadPassenger_dropDown</name>
+   <tag></tag>
+   <elementGuidId>a4536862-f387-42b7-94ca-9955124526ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@id='LeadPassengerId'])[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#target-new-quote-type-2-leg-909637 > #new-executive-quote-noorder > #pickup-quote-0 > div.panel-body > div.row > div.col-xs-7 > div.row > div.col-xs-7 > #LeadPassengerId</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>b2ecad2d-5444-4fc5-9b6a-0502b226ed02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>1d5ce131-ac2d-4d95-8165-a33ef163359f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>LeadPassengerId</value>
+      <webElementGuid>9f3c746d-2c7b-45b0-a16e-f9d5f657e80a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>LeadPassengerId</value>
+      <webElementGuid>1d3e4cf5-7b40-4f7e-be3f-985f51f23bc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katalon, Chris
+</value>
+      <webElementGuid>3d628e5d-bc27-4c41-8fa0-824dbc430be3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;target-new-quote-type-2-leg-909637&quot;)/div[@id=&quot;new-executive-quote-noorder&quot;]/div[@id=&quot;pickup-quote-0&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-7&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-7&quot;]/select[@id=&quot;LeadPassengerId&quot;]</value>
+      <webElementGuid>0471d547-f6ff-4bb1-9fae-a6f55cab0925</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@id='LeadPassengerId'])[7]</value>
+      <webElementGuid>0a838bfa-668d-4a72-aee4-4bd9273bd68f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='pickup-quote-0']/div/div/div[3]/div/div[2]/select)[3]</value>
+      <webElementGuid>0ec0fc7b-b713-4d26-8807-dbda1f311cf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lead Passenger'])[7]/following::select[1]</value>
+      <webElementGuid>b0778876-e29d-4fcd-8cd2-c7d3aec336b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No. Of Passengers'])[7]/following::select[1]</value>
+      <webElementGuid>b34e2cb6-03ff-40bf-b607-1bb9e14b53da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vehicle Type Quantities'])[7]/preceding::select[1]</value>
+      <webElementGuid>55365b8e-bdf6-46ea-bedc-a9094f6b0b6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SUV:'])[7]/preceding::select[1]</value>
+      <webElementGuid>d70e8db3-c6ca-48ee-8a11-e2e6378e047b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div[2]/div/div[2]/div[2]/div[3]/div[2]/div[2]/div/div/div[3]/div/div[2]/select</value>
+      <webElementGuid>90cdf151-dac3-4d27-95a4-c31cb623c00a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'LeadPassengerId' and @name = 'LeadPassengerId' and (text() = 'Katalon, Chris
+' or . = 'Katalon, Chris
+')]</value>
+      <webElementGuid>6910950e-3093-4b9c-a492-2d596abb88b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

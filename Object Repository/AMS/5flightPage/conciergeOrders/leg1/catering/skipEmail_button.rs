@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>skipEmail_button</name>
+   <tag></tag>
+   <elementGuidId>b885c74e-f109-46e2-bb7c-3c0c463d086e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.btn.btn-small.target-toggle-verbal-quote</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Skip Email']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>af3f19db-219d-47c9-8b74-cd35e1428745</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>30854608-68c2-4ffd-9f6e-d77afba4bf7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Skip Email</value>
+      <webElementGuid>90f35ed0-272a-4780-8afe-19078740d6d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-small target-toggle-verbal-quote</value>
+      <webElementGuid>3ac17851-f25c-4be5-b0c3-74f260eae745</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>Ams.ToggleVerbalQuote(this)</value>
+      <webElementGuid>fd3d9684-8a16-4da1-95d3-2824b283e902</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;target-new-quote-type-1-leg-909595&quot;)/div[@id=&quot;catering-quote-0&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 col-sm-7&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-6&quot;]/input[@class=&quot;btn btn-small target-toggle-verbal-quote&quot;]</value>
+      <webElementGuid>eb3e042a-704a-4cdf-bd2b-ed4afa617896</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Skip Email']</value>
+      <webElementGuid>0077be16-d982-4be6-b657-2edc88b31bc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='catering-quote-0']/div/div/div[3]/div[3]/div[2]/input</value>
+      <webElementGuid>51860990-6c52-4ae3-8cd1-478c69ef6518</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[3]/div[3]/div[2]/input</value>
+      <webElementGuid>5fb70596-b0ab-47ef-9078-49d6a87968af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>f412e53b-4fb5-4ce0-92d5-f6abcb1f5abf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>loopName_closeButton</name>
+   <tag></tag>
+   <elementGuidId>042860a3-4cf0-461f-92a5-1dd11ea0e563</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='one-loop-search']/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.target-clear-loop-search.clear-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bde554e5-8a37-4fcf-a1a0-505e80f87fab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>target-clear-loop-search  clear-icon</value>
+      <webElementGuid>8a339d3b-3bde-4fbe-aed6-90ca4207268b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;one-loop-search&quot;)/div[@class=&quot;one-loop-flex&quot;]/div[@class=&quot;loop-plan-filter&quot;]/div[@class=&quot;target-clear-loop-search  clear-icon&quot;]</value>
+      <webElementGuid>51bb35e9-c743-4217-a30f-4f338a770cb2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='one-loop-search']/div/div/div</value>
+      <webElementGuid>b32dc226-5408-4fcb-845b-1815763ecd1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>8a7a61b1-178f-46ec-b91c-6cd8fde161a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

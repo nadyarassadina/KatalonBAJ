@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>argusPlatinum_checkBox</name>
+   <tag></tag>
+   <elementGuidId>19c2e104-eb7e-43fc-aeb4-8031758c7cdc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#SafetyRatingsPanel > div.panel-body > div.check-box-list > div.row > div.form-check.col-sm-12.medium-padding > label.checkbox-custom-label.form-check-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='SafetyRatingsPanel']/div/div/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>6c317214-b07e-4a17-a664-036829c788e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkbox-custom-label form-check-label</value>
+      <webElementGuid>1b0d4681-fc74-4d07-990c-056a80982c36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>Filter_SafetyArgusPlatinum</value>
+      <webElementGuid>503d01c2-6f87-4023-a02d-8653501440f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AR/GUS Platinum</value>
+      <webElementGuid>4b72037a-3957-407d-a46a-a5b1a12016d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SafetyRatingsPanel&quot;)/div[@class=&quot;panel-body&quot;]/div[@class=&quot;check-box-list&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;form-check col-sm-12 medium-padding&quot;]/label[@class=&quot;checkbox-custom-label form-check-label&quot;]</value>
+      <webElementGuid>6303f08b-5b0e-4703-92cc-ec1a70014a9e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SafetyRatingsPanel']/div/div/div/div/label</value>
+      <webElementGuid>5b6d41de-56e6-4973-b51c-fb79e070fac3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Safety Ratings'])[1]/following::label[1]</value>
+      <webElementGuid>7cf4310f-69d7-461b-9f0d-3e10b212b4c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Stops'])[1]/following::label[1]</value>
+      <webElementGuid>bdb99669-cf9d-47ed-bc1d-3cc2438b7109</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AR/GUS Gold'])[1]/preceding::label[1]</value>
+      <webElementGuid>ecdeff70-d9f7-4924-ab73-b5da479960a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wyvern Wingman'])[1]/preceding::label[2]</value>
+      <webElementGuid>53f5c6a9-b187-43f8-8d34-151e206a2b40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='AR/GUS Platinum']/parent::*</value>
+      <webElementGuid>9f8d6e55-7439-420a-8fce-7a82cc5cfab7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div/label</value>
+      <webElementGuid>2796d3f6-308c-48b2-983d-bfe298fbcf07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'AR/GUS Platinum' or . = 'AR/GUS Platinum')]</value>
+      <webElementGuid>94f26529-ade4-41c9-a793-fd40ac64917c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

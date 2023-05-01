@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>luggageFirearmsPets2Legs</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>a6ded588-f13e-4848-a490-c0595e123897</dataFileGUID>
+   <dataSourceUrl>C:\Users\nadyarassadina\OneDrive - ONEflight International\Documents\For Regression testing\1. TESTING SCENARIO\Originals\KATALON\Test 5\luggageFirearmsPets2Leg.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

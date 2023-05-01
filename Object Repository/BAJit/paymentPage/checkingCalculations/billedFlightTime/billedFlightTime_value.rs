@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>billedFlightTime_value</name>
+   <tag></tag>
+   <elementGuidId>4b0f3899-fd73-48e4-ab61-27df9b712fa5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>dd.dd-align-r</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Billed Flight Time'])[1]/following::dd[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>dd</value>
+      <webElementGuid>98161907-8a3c-4a09-90d4-ff422e04df4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dd-align-r</value>
+      <webElementGuid>cfb48fcf-2604-4d42-abf0-8c24a11f3bd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>8.7 hours</value>
+      <webElementGuid>914a0702-77f0-4989-b26f-f23268fe208e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FlightSearchResults&quot;)/div[@class=&quot;row sidepadding&quot;]/div[1]/div[@class=&quot;baj-results-itinerary-grid-box clearfix&quot;]/div[@class=&quot;col-xs-12 bg-white&quot;]/div[@class=&quot;target-baj-results-trip-itinerary-table&quot;]/div[@class=&quot;col-xs-12 clearfix&quot;]/div[@class=&quot;row border MarginTop MarginBottom&quot;]/div[@class=&quot;col-xs-8 col-sm-4 baj-results-trip-itinerary-trips-cost-details no-padding&quot;]/div[@class=&quot;row no-margin baj-results-itinerary-aircraft-payment-table&quot;]/dl[1]/dd[@class=&quot;dd-align-r&quot;]</value>
+      <webElementGuid>674c185b-ce51-40dd-bc13-523eedb673a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='FlightSearchResults']/div[2]/div/div/div/div/div/div[5]/div[2]/div/dl/dd[2]</value>
+      <webElementGuid>3a75a991-ac77-4125-a2ed-1d1ffd6b2693</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Billed Flight Time'])[1]/following::dd[1]</value>
+      <webElementGuid>01c8e0ba-05d0-435e-bd70-f62197035a55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MEMBER'])[1]/following::dd[1]</value>
+      <webElementGuid>5bcbb8ed-bcbe-4f21-a217-627b679b4c87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flight Costs'])[1]/preceding::dd[1]</value>
+      <webElementGuid>9cb71bf7-ca75-4eca-96de-4f1c217d1429</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$78,239.10'])[1]/preceding::dd[1]</value>
+      <webElementGuid>74907d48-6d2b-4a3d-8a2f-706887231aa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='8.7 hours']/parent::*</value>
+      <webElementGuid>5922fe11-cc31-4bbd-9674-7a305b213444</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//dd[2]</value>
+      <webElementGuid>43fe16d3-37a1-4b2a-9f61-c1b2fafb7497</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//dd[(text() = '8.7 hours' or . = '8.7 hours')]</value>
+      <webElementGuid>80fc39e8-723d-4629-8cc0-640743021512</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

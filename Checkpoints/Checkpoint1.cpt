@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint1</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/bookingBAJ/flightSearch</source-url>
+   </source-info>
+   <taken-date>2023-03-21T16:46:30.495</taken-date>
+   <column-names>
+      <column-name>departureAirport</column-name>
+      <column-name>destinationAirport</column-name>
+      <column-name>date</column-name>
+      <column-name>pax</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "KHPN",
+      "checked": false
+    },
+    {
+      "value": "KMYR",
+      "checked": false
+    },
+    {
+      "value": "04/13/2023",
+      "checked": false
+    },
+    {
+      "value": "1",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "KLAS",
+      "checked": false
+    },
+    {
+      "value": "KMIA",
+      "checked": false
+    },
+    {
+      "value": "04/10/2023",
+      "checked": false
+    },
+    {
+      "value": "1",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "KLFT",
+      "checked": false
+    },
+    {
+      "value": "KTEB",
+      "checked": false
+    },
+    {
+      "value": "04/11/2023",
+      "checked": false
+    },
+    {
+      "value": "1",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "KSUS",
+      "checked": false
+    },
+    {
+      "value": "MMUN",
+      "checked": false
+    },
+    {
+      "value": "04/12/2023",
+      "checked": false
+    },
+    {
+      "value": "1",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

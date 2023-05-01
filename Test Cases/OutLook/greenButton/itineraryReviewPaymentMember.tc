@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>itineraryReviewPaymentMember</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2c97f703-5a31-4c7f-be33-51595db97cfc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cbde47c0-7041-4cfd-b3df-89e10b045ebb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Nadya CL'</defaultValue>
+      <description></description>
+      <id>cbde47c0-7041-4cfd-b3df-89e10b045ebb</id>
+      <masked>false</masked>
+      <name>signature</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>searchBaj</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>b6479708-6735-4291-b5b7-3aac5208bb2d</dataFileGUID>
+   <dataSourceUrl>C:\Users\nadyarassadina\OneDrive - ONEflight International\Documents\For Regression testing\1. TESTING SCENARIO\Originals\KATALON\Test 5\5searchBaj.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

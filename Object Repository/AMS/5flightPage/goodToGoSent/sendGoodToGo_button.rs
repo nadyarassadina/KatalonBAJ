@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sendGoodToGo_button</name>
+   <tag></tag>
+   <elementGuidId>011a2645-3edc-4965-9446-fc96ef30b922</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.btn.btn-primary.btn-flight-plan.target-good-to-go-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Send Good To Go']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f84a98e1-5e28-4c44-899d-4c3a4b2c4bf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fad9c384-6cce-4a74-a743-92a8687b30ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Send Good To Go</value>
+      <webElementGuid>708f72f9-ba58-4d22-9246-1b3fccc6a968</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-flight-plan target-good-to-go-btn</value>
+      <webElementGuid>13ae17ca-98f8-4f32-9841-b9ef3f010d35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FlightPlan&quot;)/div[@class=&quot;content target-flight-plan-main&quot;]/div[@class=&quot;row ams-workflow-container&quot;]/div[@class=&quot;col-xs-8 target-flight-plan-trip-request-main&quot;]/div[@class=&quot;content target-flight-plan-trip-request-aircraft-list request-list&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-2&quot;]/input[@class=&quot;btn btn-primary btn-flight-plan target-good-to-go-btn&quot;]</value>
+      <webElementGuid>6c09106d-b5b3-481f-a9a3-633d568c670d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Send Good To Go']</value>
+      <webElementGuid>e786f98b-d0f5-4243-a8bc-2b8f511dff5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='FlightPlan']/div/div/div[2]/div[2]/div[5]/div/input</value>
+      <webElementGuid>b546d5f0-e22a-4583-aad9-bd3a09208361</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[5]/div/input</value>
+      <webElementGuid>cf7b0533-716d-40ba-94ee-b5df4b62a77a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>3625e293-d8b1-41d2-9657-147de27dcfb6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

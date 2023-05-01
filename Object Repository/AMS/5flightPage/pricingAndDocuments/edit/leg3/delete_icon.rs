@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>delete_icon</name>
+   <tag></tag>
+   <elementGuidId>0c212a44-6a05-4acb-9eba-86e70554a6fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#target-flight-leg-id-909768 > div.col-xs-1 > i.fa.fa-trash.target-delete-this-leg.cursor</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='target-flight-leg-id-909768']/div[8]/i[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b0655f3b-9162-4f8f-a46c-eb25b287bd86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-trash target-delete-this-leg cursor</value>
+      <webElementGuid>2030809e-4e49-4461-867e-29fe9011da00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Delete Leg</value>
+      <webElementGuid>01d9571c-c6c4-4b88-89a3-15adf4d6ba6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-flightplan-id</name>
+      <type>Main</type>
+      <value>580511</value>
+      <webElementGuid>bb8bb248-871e-438a-8626-48ad38658af6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-leg-id</name>
+      <type>Main</type>
+      <value>909768</value>
+      <webElementGuid>36e0ea7a-3921-4992-ac1a-105e9e1d3db2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;target-flight-leg-id-909768&quot;)/div[@class=&quot;col-xs-1&quot;]/i[@class=&quot;fa fa-trash target-delete-this-leg cursor&quot;]</value>
+      <webElementGuid>105227a9-5147-46d2-a13f-d3d0a0672ac4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='target-flight-leg-id-909768']/div[8]/i[2]</value>
+      <webElementGuid>fe708838-82a4-4259-b87a-18ebe4166446</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[8]/i[2]</value>
+      <webElementGuid>6d9199a1-11a4-456e-b4b8-3284c364f957</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@title = 'Delete Leg']</value>
+      <webElementGuid>c5cfea82-4b39-4cf0-b1e6-1c5d47f06943</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

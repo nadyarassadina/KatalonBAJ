@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dateToSelectADate_textBox</name>
+   <tag></tag>
+   <elementGuidId>b5be6cf2-e77d-4783-83dd-b296cb1bc1c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='DatePicker391-label']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#DatePicker391-label > span.readOnlyPlaceholder-389</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5ebf031e-3a7a-4ae6-ad7c-4dedc38db08d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>readOnlyPlaceholder-389</value>
+      <webElementGuid>bbf65c86-cc12-436b-b102-650b3a768ae1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select a date</value>
+      <webElementGuid>6223714b-d564-40fd-8bef-f757609c5771</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DatePicker391-label&quot;)/span[@class=&quot;readOnlyPlaceholder-389&quot;]</value>
+      <webElementGuid>8f5620a1-f593-439f-babe-54dfbe802583</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='DatePicker391-label']/span</value>
+      <webElementGuid>283eeda4-f230-4382-b337-9104be172994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='to'])[1]/following::span[1]</value>
+      <webElementGuid>fc48e3f9-06de-4d23-a569-76785580d81a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a date'])[1]/following::span[3]</value>
+      <webElementGuid>890dab80-34ef-4048-8969-023ac9a89074</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attachments'])[1]/preceding::span[2]</value>
+      <webElementGuid>1f172b41-709f-451c-9a90-343b0cbc4aee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::span[2]</value>
+      <webElementGuid>9ea47eb9-73ec-4b72-8b4f-fa60ca9b9916</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div[2]/div/div/div/div/div/span</value>
+      <webElementGuid>26a7fb34-121e-4aff-9e19-54afe0cfaace</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Select a date' or . = 'Select a date')]</value>
+      <webElementGuid>976525e2-d63c-492f-8729-78c31a6f1b2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

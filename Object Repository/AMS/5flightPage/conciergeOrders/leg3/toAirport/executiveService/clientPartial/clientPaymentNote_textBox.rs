@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>clientPaymentNote_textBox</name>
+   <tag></tag>
+   <elementGuidId>cf0496b7-dc9e-40e5-b58c-1551a9c7ee65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='target-client-concierge-payment-2-0']/table/tbody/tr[3]/td/textarea)[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>35f06a3b-b4b9-425a-ad9b-a61244d5c434</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>textarea-small target-client-consierge-payment-notes</value>
+      <webElementGuid>3c3c5747-f815-44b7-b373-3ce0c51041f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;target-new-quote-type-2-leg-909637&quot;)/div[@id=&quot;new-executive-quote-noorder&quot;]/div[@id=&quot;pickup-quote-0&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-7&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;target-concierge-payment-div&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@id=&quot;target-client-concierge-payment-2-0&quot;]/table[1]/tbody[1]/tr[3]/td[1]/textarea[@class=&quot;textarea-small target-client-consierge-payment-notes&quot;]</value>
+      <webElementGuid>515594d5-e0c9-4e64-9650-4b8e16eea850</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='target-client-concierge-payment-2-0']/table/tbody/tr[3]/td/textarea)[6]</value>
+      <webElementGuid>0338e455-9637-43b5-a913-7377159c6483</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div[2]/div/div[2]/div[2]/div[3]/div[2]/div[2]/div/div/div[3]/div/div[11]/div/div/table/tbody/tr[3]/td/textarea</value>
+      <webElementGuid>53e28e80-0357-4168-bbfe-718bd6570f94</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

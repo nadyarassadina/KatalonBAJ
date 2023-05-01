@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>charterMembers_tab</name>
+   <tag></tag>
+   <elementGuidId>8d22a674-b6f6-48de-9bc2-e88916ad911e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div[2]/div[3]/div/div[2]/div/div/ul[5]/li/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>79a6f19c-6cf6-4399-94c1-85e8f3a30d5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ams/CharterList</value>
+      <webElementGuid>c29a71ad-6c55-4a42-97b4-32688301fcee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>left-menu-sub-level</value>
+      <webElementGuid>1e6c3794-15b0-4f5e-a147-7c1f8a4f210a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Charter Members</value>
+      <webElementGuid>db9e2450-8c4f-4e6b-8aad-0009d6ab82f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;top_wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;body-wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row col-xs-12&quot;]/div[@class=&quot;col-xs-2 no-padding left-menu&quot;]/ul[@class=&quot;no-padding&quot;]/li[1]/ul[1]/li[1]/a[@class=&quot;left-menu-sub-level&quot;]</value>
+      <webElementGuid>78a37ad2-73c2-44d0-965f-3aa5d2a1dd70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[2]/div[3]/div/div[2]/div/div/ul[5]/li/ul/li/a</value>
+      <webElementGuid>56574aa3-8fa8-4388-a1ca-bb4fe33aff64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Charter Members')]</value>
+      <webElementGuid>dd772077-9056-41d1-83d5-4b661e980d60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Charter Clients'])[1]/following::a[1]</value>
+      <webElementGuid>555358a4-3890-4b19-8f12-0bb89284e7c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inactive'])[1]/following::a[1]</value>
+      <webElementGuid>97dfffd3-fd42-4da1-9d72-8e9dbf7c7645</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Summary'])[1]/preceding::a[1]</value>
+      <webElementGuid>05b8873b-8767-4ee7-a353-92e33ab0130e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Number'])[1]/preceding::a[1]</value>
+      <webElementGuid>164c631b-447c-42a3-8e4b-8d568681b606</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Charter Members']/parent::*</value>
+      <webElementGuid>24f0f1f1-be9e-4fc1-b671-3d1327e940ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/ams/CharterList')]</value>
+      <webElementGuid>0f5d8d6d-f815-4bdc-b4f8-aa98639778be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[5]/li/ul/li/a</value>
+      <webElementGuid>13033412-0fa4-4b17-8aa5-95201b4c8b46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/ams/CharterList' and (text() = 'Charter Members' or . = 'Charter Members')]</value>
+      <webElementGuid>3131d4fc-2eb8-483e-bf72-74ddeba511b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

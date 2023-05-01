@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>conciergeAssigned</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c680e3d8-7f7a-44cd-9fad-6ae8aeb94bb1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9e58558b-0553-45fb-b17d-e22c784b8478</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0b25671c-cc8f-4c6a-8b61-f5d0e04611d9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'concierge1'</defaultValue>
+      <description></description>
+      <id>9e58558b-0553-45fb-b17d-e22c784b8478</id>
+      <masked>false</masked>
+      <name>concierge1</name>
+   </variable>
+   <variable>
+      <defaultValue>'concierge2'</defaultValue>
+      <description></description>
+      <id>0b25671c-cc8f-4c6a-8b61-f5d0e04611d9</id>
+      <masked>false</masked>
+      <name>concierge2</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>midSize_checkBox</name>
+   <tag></tag>
+   <elementGuidId>8364acaf-c6c9-453b-a828-1d1c286e3752</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AircraftTypesPanel']/div/div/div/div[3]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>7510e9c3-04a1-41c5-8dc7-be5e6d1a0c62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>AircraftTypeMidSize</value>
+      <webElementGuid>9e03a09f-b518-4cf3-a511-20b6f705da47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkbox-custom-label form-check-label</value>
+      <webElementGuid>a1fd6bd0-7a70-4782-b639-98b479313b20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mid Size (20)</value>
+      <webElementGuid>70309299-55d0-4fc2-b7fe-ec91a29ced0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AircraftTypesPanel&quot;)/div[@class=&quot;panel-body&quot;]/div[@class=&quot;check-box-list&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;form-check col-sm-12 medium-padding&quot;]/label[@class=&quot;checkbox-custom-label form-check-label&quot;]</value>
+      <webElementGuid>9eb1201c-f609-4180-b714-871dee1f1ea7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AircraftTypesPanel']/div/div/div/div[3]/label</value>
+      <webElementGuid>9f98b0ab-04b6-40e8-ad9c-87327118c195</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(43)'])[1]/following::label[1]</value>
+      <webElementGuid>aa45d485-f180-454f-aee6-dd0f447aa57e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mid Size']/parent::*</value>
+      <webElementGuid>da5431c5-9402-4baf-8c5c-8f6fc21ef690</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/label</value>
+      <webElementGuid>ceeafd8e-2789-43e9-84fc-984149aa45d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Mid Size (20)' or . = 'Mid Size (20)')]</value>
+      <webElementGuid>e1df97e5-f0ff-4597-a79b-3d5519b01aa3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

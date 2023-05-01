@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>acceptCookies_button</name>
+   <tag></tag>
+   <elementGuidId>1d728a74-6984-42cf-b74e-d6c8c2ed2104</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.accept-policy.close > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cookieConsent']/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cfcef4ae-45c5-4a6c-9c8e-870c7fe8f4d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3ec44290-2113-4648-a556-faac33c8e116</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accept</value>
+      <webElementGuid>c8746742-573c-46a2-be45-b1249c86e3c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cookieConsent&quot;)/button[@class=&quot;accept-policy close&quot;]/span[1]</value>
+      <webElementGuid>3b78b5e1-92f2-41e5-a7a0-87bb457ee196</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cookieConsent']/button/span</value>
+      <webElementGuid>a0ad49b2-2333-497d-97a3-7a69d803748a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn More'])[1]/following::span[1]</value>
+      <webElementGuid>70140ff6-c305-460d-ac89-4414900c9526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Disclaimer.'])[1]/preceding::span[1]</value>
+      <webElementGuid>30b4abd9-816c-4996-8d73-b393c2cd57bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create your account'])[1]/preceding::span[3]</value>
+      <webElementGuid>accbd372-f1d6-4a3d-b2a2-6154630bc848</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Accept']/parent::*</value>
+      <webElementGuid>b6cb8d1d-9462-4c8c-8d86-30d51570ab4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>24ff4cfb-a08e-4bc7-a0ff-d1cd2d84c4f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Accept' or . = 'Accept')]</value>
+      <webElementGuid>e7f1403e-c3c5-4d61-bd56-48fdf7689f89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

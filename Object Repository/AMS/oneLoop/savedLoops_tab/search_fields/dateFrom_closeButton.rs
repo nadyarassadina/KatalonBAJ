@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dateFrom_closeButton</name>
+   <tag></tag>
+   <elementGuidId>7dc24d4b-77fa-478a-bb06-41c5a32c43a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='one-loop-search']/fieldset/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>48fbaf6b-a723-4d05-9428-9724c1cac320</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>target-clear-loop-search  clear-icon</value>
+      <webElementGuid>b0991575-8504-4971-b0df-b441bde226d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;one-loop-search&quot;)/fieldset[1]/div[@class=&quot;loop-plan-filter&quot;]/div[@class=&quot;target-clear-loop-search  clear-icon&quot;]</value>
+      <webElementGuid>db71d1e8-5479-4ed1-9142-300d98d252f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='one-loop-search']/fieldset/div[2]/div</value>
+      <webElementGuid>14fb41c2-cf74-4062-b030-a60d26247f01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/div[2]/div</value>
+      <webElementGuid>588e5fb9-cb8c-4363-a22c-97ab4d29f40e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

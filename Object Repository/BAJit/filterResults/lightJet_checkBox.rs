@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lightJet_checkBox</name>
+   <tag></tag>
+   <elementGuidId>7104a80f-bb36-40ac-afa2-459b5b5ec8d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AircraftTypesPanel']/div/div/div/div[4]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>7266f3c3-acbf-4820-a2ac-0180b5ab96f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>AircraftTypeLightJet</value>
+      <webElementGuid>b5a3987a-f52e-4968-9e03-0f6d4bd294b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkbox-custom-label form-check-label</value>
+      <webElementGuid>1165ae74-fae2-4713-87f9-e00c4c135585</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Light Jet (9)</value>
+      <webElementGuid>f283d3a7-a92c-4b21-8d2a-991707f33352</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AircraftTypesPanel&quot;)/div[@class=&quot;panel-body&quot;]/div[@class=&quot;check-box-list&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;form-check col-sm-12 medium-padding&quot;]/label[@class=&quot;checkbox-custom-label form-check-label&quot;]</value>
+      <webElementGuid>b369c52b-0968-4c83-b8c0-6c25f6fc504e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AircraftTypesPanel']/div/div/div/div[4]/label</value>
+      <webElementGuid>3d43bc08-f871-48f8-a3c4-294a78b7ffa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(20)'])[1]/following::label[1]</value>
+      <webElementGuid>40db0884-b2f9-4e1c-8943-166cf5e29e69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Light Jet']/parent::*</value>
+      <webElementGuid>bef63bef-e424-4936-9d36-aabd52fc99d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/label</value>
+      <webElementGuid>2fdd3b7d-00f2-409c-ab74-5c0061c6b202</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Light Jet (9)' or . = 'Light Jet (9)')]</value>
+      <webElementGuid>7193ebd9-a484-4795-804c-735ea437b957</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

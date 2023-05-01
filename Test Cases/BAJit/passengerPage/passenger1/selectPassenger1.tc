@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>selectPassenger1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6d0583e-6a90-4f56-bd35-c58456c6aa98</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>327cb013-5bcd-4e16-84f2-9fd12f22c85e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Chris Katalon'</defaultValue>
+      <description></description>
+      <id>327cb013-5bcd-4e16-84f2-9fd12f22c85e</id>
+      <masked>false</masked>
+      <name>passenger1</name>
+   </variable>
+</TestCaseEntity>

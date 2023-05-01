@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>aircraftRates_dropDownTab</name>
+   <tag></tag>
+   <elementGuidId>579bdb47-946d-4d19-aa63-f83a5752b6f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/div/div/div[2]/nav/ul/li[8]/ul/li[8]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Aircraft Rates&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e25f7aaa-d5b2-441e-b9e5-8ac4d47b78ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Aircraft/AircraftRates</value>
+      <webElementGuid>f598a9ff-b6f4-4dff-8a2c-aa72011bf037</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Aircraft Rates</value>
+      <webElementGuid>523e0c4d-bf3b-4738-a413-601b463a8e97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aircraft Rates</value>
+      <webElementGuid>6d7dc78e-db1d-4c25-8c5c-b0472a1e3d1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;top_wrapper&quot;]/header[@id=&quot;header&quot;]/header[@id=&quot;header&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row header flex-bottom&quot;]/div[@class=&quot;col-md-12&quot;]/nav[1]/ul[@class=&quot;navigation&quot;]/li[8]/ul[@class=&quot;show-sub-menu&quot;]/li[8]/a[1]</value>
+      <webElementGuid>3a903536-a151-4700-83c3-7b0e48edcaad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/div/div/div[2]/nav/ul/li[8]/ul/li[8]/a</value>
+      <webElementGuid>f7538d96-fb34-4e4d-bcf7-fc055974bfec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Aircraft Rates')]</value>
+      <webElementGuid>48d52ebf-37e8-4069-9bf9-fcf68fe738cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aircraft Manager'])[1]/following::a[1]</value>
+      <webElementGuid>d6dead86-361b-4398-88c3-a771892db954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aircraft Mapping Tool'])[1]/following::a[2]</value>
+      <webElementGuid>bda48983-9315-4c78-a315-e3e2ab0dd978</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Manager'])[1]/preceding::a[1]</value>
+      <webElementGuid>7fc63add-b3cf-415d-94da-c2f89e4b9bc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='High Density Airports'])[1]/preceding::a[2]</value>
+      <webElementGuid>84436702-976c-43ac-8a99-36e2d0c1ca0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Aircraft Rates']/parent::*</value>
+      <webElementGuid>be6df14f-0589-4a5b-9c3c-5e8206b51145</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Aircraft/AircraftRates')]</value>
+      <webElementGuid>8a9dc4f3-8d1e-4eea-a1b3-6fbc90bf5647</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/ul/li[8]/a</value>
+      <webElementGuid>7c385908-c684-44aa-961c-88424b981ea2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Aircraft/AircraftRates' and @title = 'Aircraft Rates' and (text() = 'Aircraft Rates' or . = 'Aircraft Rates')]</value>
+      <webElementGuid>0f5367a8-79e8-416b-b56a-8aa59de07e82</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

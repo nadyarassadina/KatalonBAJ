@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>filterResultsForTest6</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8952140a-bb8b-4c96-bd85-af45ea30ea15</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>104111d9-8286-440a-91e6-7abe5e9f30e8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'manufacturer'</defaultValue>
+      <description></description>
+      <id>104111d9-8286-440a-91e6-7abe5e9f30e8</id>
+      <masked>false</masked>
+      <name>manufacturer</name>
+   </variable>
+</TestCaseEntity>

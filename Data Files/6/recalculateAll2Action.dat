@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>recalculateAll2Action</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>191b5b7b-505e-4c0c-8243-572c9864ed24</dataFileGUID>
+   <dataSourceUrl>C:\Users\nadyarassadina\OneDrive - ONEflight International\Documents\For Regression testing\1. TESTING SCENARIO\Originals\KATALON\Test 6\recalculateAll2Action.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

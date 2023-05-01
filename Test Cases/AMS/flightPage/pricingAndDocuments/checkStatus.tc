@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>checkStatus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>917cf3a8-602e-4d23-bf90-3c9121533da0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>87d6ea14-be66-418d-ab73-3e3ec688e082</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'status'</defaultValue>
+      <description></description>
+      <id>87d6ea14-be66-418d-ab73-3e3ec688e082</id>
+      <masked>false</masked>
+      <name>status</name>
+   </variable>
+</TestCaseEntity>

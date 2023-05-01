@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>createdDate_filter</name>
+   <tag></tag>
+   <elementGuidId>816e1da3-51e5-45ae-9ea9-ea0ddabe86a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='one-loop-saved-loops-table']/thead/tr/td[8]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td[name=&quot;CreatedDate&quot;] > div.thead-arrow-div > a.target-new-sort-header</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0bac61cb-ca50-40cd-9bce-05ef80d36f8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>9b5addef-755f-4c55-b727-3079476ade60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>target-new-sort-header</value>
+      <webElementGuid>13cc5ecc-4da5-418e-89bf-da10694f3ed7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sort</name>
+      <type>Main</type>
+      <value>CreatedDate</value>
+      <webElementGuid>a87e8bbd-eaf3-480c-adbe-4ea40e800c17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            Created Date
+                        </value>
+      <webElementGuid>8fef4383-576a-4660-bd27-951f8e5928e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;one-loop-saved-loops-table&quot;)/thead[1]/tr[1]/td[8]/div[@class=&quot;thead-arrow-div&quot;]/a[@class=&quot;target-new-sort-header&quot;]</value>
+      <webElementGuid>21d082e9-eb05-4cd3-867f-0991d76ac2f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='one-loop-saved-loops-table']/thead/tr/td[8]/div/a</value>
+      <webElementGuid>a54e595c-9fd5-4d09-b469-5a31cf49ace0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Created Date')]</value>
+      <webElementGuid>d707dfaf-033e-46c5-818e-4f67b6c9e83b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forward >'])[1]/following::a[8]</value>
+      <webElementGuid>c708b297-ee62-4052-a2a2-1228b0da7cb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='of 4'])[1]/following::a[8]</value>
+      <webElementGuid>e8130d06-ae7a-4df0-b520-1cf5dcb70019</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(SLC) 11/28 - 11/30'])[1]/preceding::a[4]</value>
+      <webElementGuid>2d320eb5-74e3-4625-8126-914611c2b9b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eugene Trujillo'])[2]/preceding::a[4]</value>
+      <webElementGuid>a30c6e8c-4268-47b0-974b-1133718c08ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[20]</value>
+      <webElementGuid>5b97c78a-0331-4fad-934b-95be9154efb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[8]/div/a</value>
+      <webElementGuid>4a380dea-d15d-4567-b903-df4fb4205b3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = '
+                            Created Date
+                        ' or . = '
+                            Created Date
+                        ')]</value>
+      <webElementGuid>27e6200c-2c53-4672-8207-152f489497cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

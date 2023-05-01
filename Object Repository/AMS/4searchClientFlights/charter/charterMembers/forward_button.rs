@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>forward_button</name>
+   <tag></tag>
+   <elementGuidId>36505cfd-c95e-4b25-b51c-e5cc2a917a7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='client-list']/div/table/tbody/tr/td/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.target-pager-forward.target-pager-forward-new.btn.btn-default.btn-xs</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0681d815-a29b-4ce1-b206-f7fa2f5aec4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>target-pager-forward target-pager-forward-new btn btn-default btn-xs</value>
+      <webElementGuid>50e06dde-2f09-4451-8990-e8f50c591e09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Forward</value>
+      <webElementGuid>8cbae00e-d75c-4115-ad30-64d134f165bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;client-list&quot;)/div[@class=&quot;row&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;text-left&quot;]/button[@class=&quot;target-pager-forward target-pager-forward-new btn btn-default btn-xs&quot;]</value>
+      <webElementGuid>9eea9bfc-4ebd-4335-bdaf-d65bc89f2d4b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='client-list']/div/table/tbody/tr/td/button[2]</value>
+      <webElementGuid>d513dc04-6ead-49d9-a052-6675cbe20bea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::button[1]</value>
+      <webElementGuid>25c627d4-8634-4224-9f38-7bfefe2e7ab1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find'])[1]/following::button[2]</value>
+      <webElementGuid>f782051f-b500-4b37-b69a-5cd942b982a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page Size:'])[1]/preceding::button[1]</value>
+      <webElementGuid>a1155bc1-b707-4451-826d-a998c7da2074</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google'])[2]/preceding::button[1]</value>
+      <webElementGuid>e2ad92fe-39a6-48ab-b8bc-217c596b1c49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Forward']/parent::*</value>
+      <webElementGuid>f127627c-39ad-4316-8c92-dd5677687ab8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>0ca1b650-f622-40f5-91a3-8149774c7177</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Forward' or . = 'Forward')]</value>
+      <webElementGuid>4ee89f32-aedd-4681-80fc-6f44433b34c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

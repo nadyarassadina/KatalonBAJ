@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>reports_menuItem</name>
+   <tag></tag>
+   <elementGuidId>6f805200-b146-4667-ab1e-a7771d5cdea6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/div/div/div[2]/nav/ul/li[7]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Reports&quot;] > span.label-nav</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>19c9ff47-ae05-408a-b777-595599e873e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-nav</value>
+      <webElementGuid>521f6155-550b-47cc-87ad-f7a57a1e5b28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                Reports
+                                            </value>
+      <webElementGuid>349a21c4-2872-4fa6-a58d-e2db6b5b6017</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;top_wrapper&quot;]/header[@id=&quot;header&quot;]/header[@id=&quot;header&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row header flex-bottom&quot;]/div[@class=&quot;col-md-12&quot;]/nav[1]/ul[@class=&quot;navigation&quot;]/li[7]/a[1]/span[@class=&quot;label-nav&quot;]</value>
+      <webElementGuid>242f45cb-6d4e-44c0-86d1-5f0efa415438</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/div/div/div[2]/nav/ul/li[7]/a/span</value>
+      <webElementGuid>8dd735bf-48d0-44dd-b524-40b5abba2ae7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Event Partners'])[1]/following::span[1]</value>
+      <webElementGuid>a442327e-137d-40e3-89d9-64f6f95912ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guest Check In'])[1]/following::span[1]</value>
+      <webElementGuid>b107867f-e103-48f2-a0fe-2245a80055ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report Types'])[1]/preceding::span[1]</value>
+      <webElementGuid>93c27cde-6c0f-40ee-98e4-54162ea307da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Health Declarations'])[1]/preceding::span[1]</value>
+      <webElementGuid>587bbfa1-9a58-4ece-92f4-e014f82713d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reports']/parent::*</value>
+      <webElementGuid>be4dbef2-cf1d-4015-8f14-5751526ab10c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/a/span</value>
+      <webElementGuid>0c49ce7f-0ea2-4506-9a80-264d81de4001</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+                                                Reports
+                                            ' or . = '
+                                                Reports
+                                            ')]</value>
+      <webElementGuid>1c7668ab-5278-4177-8f72-1cda18d78f4b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

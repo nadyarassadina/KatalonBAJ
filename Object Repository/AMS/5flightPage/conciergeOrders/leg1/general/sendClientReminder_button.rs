@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sendClientReminder_button</name>
+   <tag></tag>
+   <elementGuidId>03ab02d6-759c-464e-950f-867e7493969a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.btn.btn-primary.btn-flight-plan.target-send-reminder-to-client.margin-left-5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Send Client Reminder']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>290bb85c-be61-4337-852b-5a9e4adc6c09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4d327294-008a-4873-b919-e14444b904cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Send Client Reminder</value>
+      <webElementGuid>05c367e4-280b-4c1a-9415-28ddf9bd9449</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-flightplanid</name>
+      <type>Main</type>
+      <value>580433</value>
+      <webElementGuid>3a587700-d5bd-4c4f-957d-4718b95c446f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-flight-plan target-send-reminder-to-client margin-left-5</value>
+      <webElementGuid>aeffc54a-e4c5-4914-84e7-cc0a03c44da0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FlightPlan&quot;)/div[@class=&quot;content target-flight-plan-main&quot;]/div[@class=&quot;row ams-workflow-container&quot;]/div[@class=&quot;col-xs-8 target-flight-plan-trip-request-main&quot;]/div[@class=&quot;content target-flight-plan-trip-request-aircraft-list request-list&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;col-xs-6 target-select-recipients&quot;]/div[@class=&quot;row&quot;]/input[@class=&quot;btn btn-primary btn-flight-plan target-send-reminder-to-client margin-left-5&quot;]</value>
+      <webElementGuid>99e289d9-3a93-4504-92c7-6e65b39e3b7f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Send Client Reminder']</value>
+      <webElementGuid>cad820bd-c5eb-45b4-a2bc-cb46581a1e1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='FlightPlan']/div/div/div[2]/div[2]/div[3]/div/div/div[4]/input</value>
+      <webElementGuid>2ca330af-65d2-443a-8f30-6bd6ce10270c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div/div[4]/input</value>
+      <webElementGuid>511ce380-6317-4b8f-81ad-247ce0ed0509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>34e17483-db4e-4686-982b-3c483d945db7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

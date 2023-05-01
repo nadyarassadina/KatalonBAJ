@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>afterTripSheet3</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>d52d8ee2-3d6a-4827-9da6-41ebb4fd5953</dataFileGUID>
+   <dataSourceUrl>C:\Users\nadyarassadina\OneDrive - ONEflight International\Documents\For Regression testing\1. TESTING SCENARIO\Originals\KATALON\Test 8\afterTripSheet3.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

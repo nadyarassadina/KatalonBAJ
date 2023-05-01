@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>itineraryReviewDecline</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4a7db06-2cd7-4b88-8925-a420f8f219a2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6caa5524-cdfa-44de-9ff7-70be985a87c0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'test'</defaultValue>
+      <description></description>
+      <id>6caa5524-cdfa-44de-9ff7-70be985a87c0</id>
+      <masked>false</masked>
+      <name>reason</name>
+   </variable>
+</TestCaseEntity>

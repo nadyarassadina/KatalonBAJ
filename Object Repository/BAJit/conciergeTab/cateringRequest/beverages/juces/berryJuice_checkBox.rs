@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>berryJuice_checkBox</name>
+   <tag></tag>
+   <elementGuidId>b3ab1457-4b6c-45d0-85fc-a05ffea0e9c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='Juices-options']/li[4]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>2017590e-7ab7-42fd-9845-0a43c4cb0b2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>JuicesBerry Juice</value>
+      <webElementGuid>5f2c26e4-87f7-4b15-ab25-f0674b95a636</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Berry Juice</value>
+      <webElementGuid>bc0e981d-6ba7-447e-94ed-eba38e6e1815</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Juices-options&quot;)/li[4]/label[1]</value>
+      <webElementGuid>13b5824e-027c-40e8-baaa-d0c4bfb1160d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='Juices-options']/li[4]/label</value>
+      <webElementGuid>42371a3c-c96e-4e86-816d-44e9b1660bfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apple Juice'])[1]/following::label[1]</value>
+      <webElementGuid>994bd113-d6da-4851-8c98-dfc15f9cbfb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Orange Juice'])[1]/following::label[2]</value>
+      <webElementGuid>ca52e347-9b76-4275-959d-eac24a2942a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lemonade'])[1]/preceding::label[1]</value>
+      <webElementGuid>079f8286-7724-4a97-9d1b-b09e9faa780d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Done'])[8]/preceding::label[2]</value>
+      <webElementGuid>fbe6d285-2c4f-415d-9b6c-efa3588a9910</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Berry Juice']/parent::*</value>
+      <webElementGuid>e6cb019d-f64e-485c-bcbb-a1c936dc3aa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/h4[3]/ul/li[4]/label</value>
+      <webElementGuid>b7e1c6a1-602c-45c6-a89e-7515562a3b04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Berry Juice' or . = 'Berry Juice')]</value>
+      <webElementGuid>7b8717da-00ca-4367-a54e-7f484b6bd04e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>updateConciergeAssignment_button</name>
+   <tag></tag>
+   <elementGuidId>8086ad37-e7b4-4adb-bc1a-557cfc5d42df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Update Concierge Assignment']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.btn.btn-primary.btn-flight-plan.target-concierge-order-assigned-to-btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ae5360d2-9731-422c-8677-c2b25bce90e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2319ba89-4ac3-4211-8e45-8d586057798e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Update Concierge Assignment</value>
+      <webElementGuid>fef17afb-99eb-4c2d-86a8-970abbfcbd75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-flight-plan target-concierge-order-assigned-to-btn</value>
+      <webElementGuid>6ee8ff9f-b6dc-4a76-8214-9403095cf662</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FlightPlan&quot;)/div[@class=&quot;content target-flight-plan-main&quot;]/div[@class=&quot;row ams-workflow-container&quot;]/div[@class=&quot;col-xs-8 target-flight-plan-trip-request-main&quot;]/div[@class=&quot;content target-flight-plan-trip-request-aircraft-list request-list&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-4&quot;]/input[@class=&quot;btn btn-primary btn-flight-plan target-concierge-order-assigned-to-btn&quot;]</value>
+      <webElementGuid>71f355cb-3fe5-4281-adb5-1e6e181cf948</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Update Concierge Assignment']</value>
+      <webElementGuid>624b6530-2f98-4388-b318-bae5897fdecc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='FlightPlan']/div/div/div[2]/div[2]/div[2]/div[3]/input</value>
+      <webElementGuid>08ee2e3f-cf7e-4a46-ae4f-6131652c889b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div[3]/input</value>
+      <webElementGuid>08a1009f-02e1-4e4f-bf38-da7b884a74d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>48ec0d67-e136-4a69-9940-069e8e705363</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

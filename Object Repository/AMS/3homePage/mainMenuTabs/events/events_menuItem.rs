@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>events_menuItem</name>
+   <tag></tag>
+   <elementGuidId>15e3df44-0a28-452f-91df-8e482ed2d3c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/div/div/div[2]/nav/ul/li[6]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Events&quot;] > span.label-nav</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d8bedec6-452f-4d8a-81b8-65d053802275</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-nav</value>
+      <webElementGuid>6a590a10-36fb-456a-9ada-d716603e86c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                Events
+                                            </value>
+      <webElementGuid>e6d1e7ad-ae81-4e4c-a6c5-15b624910684</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;top_wrapper&quot;]/header[@id=&quot;header&quot;]/header[@id=&quot;header&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row header flex-bottom&quot;]/div[@class=&quot;col-md-12&quot;]/nav[1]/ul[@class=&quot;navigation&quot;]/li[6]/a[1]/span[@class=&quot;label-nav&quot;]</value>
+      <webElementGuid>fb6e38a9-018f-4183-8e80-fd568991c2cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/div/div/div[2]/nav/ul/li[6]/a/span</value>
+      <webElementGuid>ca285e05-ba0e-457d-87d9-7f87dcb05396</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Competitor Comparison'])[1]/following::span[1]</value>
+      <webElementGuid>63daaf17-5af4-4c46-be3b-3fce31b64ec1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ONEloop'])[1]/following::span[1]</value>
+      <webElementGuid>bf3b5641-b230-4dd4-805e-3fe992d271ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Event Invitations'])[1]/preceding::span[1]</value>
+      <webElementGuid>f4823856-935b-4774-894c-47b0f49b5117</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guest Check In'])[1]/preceding::span[1]</value>
+      <webElementGuid>1257e4f1-9f87-4e01-a8ee-3ad70d106951</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Events']/parent::*</value>
+      <webElementGuid>6b419dfd-004e-4823-bf7a-3d5e8bd66153</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a/span</value>
+      <webElementGuid>19ed4a91-cff8-4a75-b905-0ce87828e326</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+                                                Events
+                                            ' or . = '
+                                                Events
+                                            ')]</value>
+      <webElementGuid>8517eb5c-33e9-4582-b6e8-62a6ef396568</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

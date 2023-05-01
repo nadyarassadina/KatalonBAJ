@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>continue_button</name>
+   <tag></tag>
+   <elementGuidId>03c2740a-de7e-4822-a278-4080a30831ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-xs-12.continue-to-concierge.text-center > input.baj-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Continue >>']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>a894f8e1-5d5e-49bd-bd2d-2cac7763c23f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8296dcd6-2249-48df-8b19-9c85115e4ee9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Continue >></value>
+      <webElementGuid>9e52e451-86a3-4755-b7a1-8484387b53ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>baj-btn</value>
+      <webElementGuid>72b4db09-5442-4500-9ec0-714f4859f5fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-step</name>
+      <type>Main</type>
+      <value>BAJ_Passengers</value>
+      <webElementGuid>89f132b0-30ce-47f4-809c-8fc94a268ea0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>BAJ.ContinueToPayment(this);</value>
+      <webElementGuid>f9992219-bca5-45d8-8aa6-e36f1e792cb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FlightPlanForm&quot;)/div[@class=&quot;row-fluid clearfix PassengerForm bg-transparrent&quot;]/div[@class=&quot;col-xs-12 continue-to-concierge text-center&quot;]/input[@class=&quot;baj-btn&quot;]</value>
+      <webElementGuid>31fa4c17-629e-45cf-bd71-5f682ec45a79</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Continue >>']</value>
+      <webElementGuid>d81abe40-c64c-4900-98a0-26dedc1e60f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='FlightPlanForm']/div[3]/div/input</value>
+      <webElementGuid>274fc000-1c44-472d-98e7-761fa226f0ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/input</value>
+      <webElementGuid>f83ce50e-3a89-40eb-9685-652cba691adf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>81d4f1af-fe92-4a32-ae25-a98141b76175</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

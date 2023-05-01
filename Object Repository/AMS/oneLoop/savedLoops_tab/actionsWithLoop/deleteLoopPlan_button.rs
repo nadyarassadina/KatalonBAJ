@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>deleteLoopPlan_button</name>
+   <tag></tag>
+   <elementGuidId>e450bf31-58d8-4a9d-b6c8-ccf9aee4c49b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Delete Loop Plan']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.button-one-loop-small.target-delete-loop-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>dcbc7581-d254-42f3-a546-2c336cc9e0e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>11335272-9e3f-4e00-8b36-dda3c572f039</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-one-loop-small target-delete-loop-item</value>
+      <webElementGuid>adf58dc1-0154-4da0-8970-876b936a40ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Delete Loop Plan</value>
+      <webElementGuid>107d1ae8-3f34-44fd-83c4-55f6e0ebe295</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-loop-id</name>
+      <type>Main</type>
+      <value>165</value>
+      <webElementGuid>44e9c599-4376-40b8-b34c-cba83bcd326c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-loop-name</name>
+      <type>Main</type>
+      <value>Anya Test 1:25</value>
+      <webElementGuid>e6eac4e6-c5e6-4fb6-ae8e-0a8b456a28f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;one-loop-detail&quot;)/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-body&quot;]/div[2]/div[2]/input[@class=&quot;button-one-loop-small target-delete-loop-item&quot;]</value>
+      <webElementGuid>7cd08fc9-3b80-480f-a29b-098c82adb1f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Delete Loop Plan']</value>
+      <webElementGuid>2ff78a31-8b7f-40f6-afcb-3d24c1b73d68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='one-loop-detail']/div/div/div[2]/div[2]/input[3]</value>
+      <webElementGuid>73db985c-2996-4a5c-96e9-d1d341e4c1c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/input[3]</value>
+      <webElementGuid>fd66077e-2228-4b8c-b81b-eaefb6505642</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>da907562-a278-48a5-851b-cf1c13ce56bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

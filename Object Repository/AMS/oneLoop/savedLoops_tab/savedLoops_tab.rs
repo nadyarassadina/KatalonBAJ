@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>savedLoops_tab</name>
+   <tag></tag>
+   <elementGuidId>1210b5dd-da75-4191-b5ba-f93778cc0343</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.target-tab.target-load-saved-loops</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='one-loop-div']/div/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a3092378-c9c8-4355-8115-8e936f3a979d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>target-tab target-load-saved-loops</value>
+      <webElementGuid>a5db4d67-be41-465b-8d81-556787d3d4fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>e645b8db-ff1a-420d-b7c4-c1b26a2bf2c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#SavedLoops</value>
+      <webElementGuid>051daf4b-b541-4cc1-8a3e-12c549a6dfff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Saved Loops</value>
+      <webElementGuid>1b966fc7-6a95-4134-a69e-9b988c60c5f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;one-loop-div&quot;)/div[@class=&quot;col-xs-12 no-padding&quot;]/ul[@class=&quot;nav nav-tabs small-tabs&quot;]/li[@class=&quot;active&quot;]/a[@class=&quot;target-tab target-load-saved-loops&quot;]</value>
+      <webElementGuid>59778ac5-0a9a-4015-8d63-bd846fb68faa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='one-loop-div']/div/ul/li/a</value>
+      <webElementGuid>2bb9e0a6-5e1c-4c59-8059-702c0030b390</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Saved Loops')]</value>
+      <webElementGuid>fcbd9750-57d2-48e9-8384-fc28d941dae8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loop Tool'])[1]/preceding::a[1]</value>
+      <webElementGuid>56fbe316-3973-4ff5-84e4-67be7321e40b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loop Name'])[1]/preceding::a[2]</value>
+      <webElementGuid>ef13d2b1-0075-470f-bad9-52c937f581e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Saved Loops']/parent::*</value>
+      <webElementGuid>fd9129df-8cbf-406b-a5f0-95694813660d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#SavedLoops')]</value>
+      <webElementGuid>9680466e-9166-414d-8fe0-294ddfaee0ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/ul/li/a</value>
+      <webElementGuid>2aca84ea-192a-4c83-b5d3-619e7b9f91ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#SavedLoops' and (text() = 'Saved Loops' or . = 'Saved Loops')]</value>
+      <webElementGuid>a7912ab1-1987-46c9-8fc7-154563ffeae2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

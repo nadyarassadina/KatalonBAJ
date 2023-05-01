@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>add2_button</name>
+   <tag></tag>
+   <elementGuidId>6cc324a9-d091-4b45-aab9-054a8015dc80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='AddLeg_2']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#AddLeg_2 > span.add-leg-verbiage</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>851dac7c-9e80-422b-9a37-f97940a27a44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>add-leg-verbiage</value>
+      <webElementGuid>dffd17f5-e2a3-43a9-91eb-a913eeb58c79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add</value>
+      <webElementGuid>7d59b171-8793-46fe-b5c7-8a1c0cbad5fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AddLeg_2&quot;)/span[@class=&quot;add-leg-verbiage&quot;]</value>
+      <webElementGuid>bcdc1b88-a438-450c-a48b-ec7ea4e32a0d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='AddLeg_2']/span</value>
+      <webElementGuid>c0407aed-cb2e-42b5-8c34-caefec2566a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Return'])[2]/following::span[1]</value>
+      <webElementGuid>3fe8af0e-e93d-44fc-966e-6cdca17f9f09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Los Angeles International AirportLos Angeles, CA, US'])[2]/following::span[2]</value>
+      <webElementGuid>97959ba7-497d-49e5-a0b2-d41b4c616ca6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[2]/preceding::span[1]</value>
+      <webElementGuid>c2f14768-9f3b-454c-85d6-7bb6dfea5bfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[2]/preceding::span[2]</value>
+      <webElementGuid>5c158c0b-10ab-4f88-9637-791cc24b3efd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]/div[2]/a/span</value>
+      <webElementGuid>73843372-2ca2-411f-9d45-8ea2be24419b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Add' or . = 'Add')]</value>
+      <webElementGuid>8af44e49-7fc6-4b98-a97b-5d8552d1c4a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

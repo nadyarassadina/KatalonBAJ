@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>noteForVendor_textBox</name>
+   <tag></tag>
+   <elementGuidId>42dac2ad-4eba-4d5d-a874-2e8c6c084e6c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//textarea[@id='VendorNote'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#dropoff-quote-0 > div.panel-body > div.row > div.col-sm-5 > div.target-vendor-note > div.row > div.col-xs-12 > #VendorNote</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>1c8c6b6f-730d-423f-8866-d324ac5ea565</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>textarea-small</value>
+      <webElementGuid>4ff302c0-4e4f-4550-a500-ac6c77ee41ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>VendorNote</value>
+      <webElementGuid>e4f9cee5-bd9c-4b4e-b5dc-3f8f4bc47877</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Customer to be picked up at </value>
+      <webElementGuid>a32d1fab-27dd-490f-b7dc-02faa441c184</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;concierge-quotes-accoridion-leg-1&quot;)/div[@class=&quot;panel request&quot;]/div[@id=&quot;dropoff-quotes-leg-1&quot;]/div[@class=&quot;panel-body&quot;]/div[@id=&quot;dropoff-quotes-workarea-leg-909635&quot;]/div[@id=&quot;dropoff-quotes-container-leg-909635&quot;]/div[@id=&quot;target-new-quote-type-3-leg-909635&quot;]/div[@id=&quot;new-executive-quote-noorder&quot;]/div[@id=&quot;dropoff-quote-0&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-5&quot;]/div[@class=&quot;target-vendor-note&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/textarea[@id=&quot;VendorNote&quot;]</value>
+      <webElementGuid>41a9babe-b0c9-4c55-9fa7-6fdb94cd229f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//textarea[@id='VendorNote'])[3]</value>
+      <webElementGuid>a99c0623-b821-426a-81b9-8490dfe5ece0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dropoff-quote-0']/div/div/div[2]/div[4]/div[2]/div/textarea</value>
+      <webElementGuid>75b8ada6-f3be-45f6-adaa-fdb620391471</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service Date and Time'])[4]/preceding::textarea[1]</value>
+      <webElementGuid>519a338a-3276-4bb9-9534-86d17a92dff4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pets'])[2]/preceding::textarea[1]</value>
+      <webElementGuid>3ba5c73e-8fb6-4943-ae82-5a6b2c80a2bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div[2]/div[2]/div[3]/div[2]/div[2]/div/div/div[2]/div[4]/div[2]/div/textarea</value>
+      <webElementGuid>b78df911-d5e2-4f82-8bba-ea5892151cd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@id = 'VendorNote' and (text() = 'Customer to be picked up at ' or . = 'Customer to be picked up at ')]</value>
+      <webElementGuid>392b77e2-85ac-4697-9956-dff6937193b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>loopName_filter</name>
+   <tag></tag>
+   <elementGuidId>333a11b0-1ef9-4e4c-a35c-e268eece51ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='one-loop-saved-loops-table']/thead/tr/td/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.target-new-sort-header</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7455917f-9460-49cc-8b3c-d59cbb56c3b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>36313b67-5060-4fb9-ac28-48af76506812</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>target-new-sort-header</value>
+      <webElementGuid>9d62524e-3b3b-4919-b097-375b371d3c4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sort</name>
+      <type>Main</type>
+      <value>Name</value>
+      <webElementGuid>f3b2a763-146b-4bf1-bc78-5d04ae2e53bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            Loop Name
+                        </value>
+      <webElementGuid>d7136784-4254-42f9-8ae8-3082bb697172</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;one-loop-saved-loops-table&quot;)/thead[1]/tr[1]/td[1]/div[@class=&quot;thead-arrow-div&quot;]/a[@class=&quot;target-new-sort-header&quot;]</value>
+      <webElementGuid>390ecf6b-494f-4553-9800-655ee442400e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='one-loop-saved-loops-table']/thead/tr/td/div/a</value>
+      <webElementGuid>6ed46c4c-46e7-4bc0-9827-6c08871037b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Loop Name')]</value>
+      <webElementGuid>dd107a74-80c1-444a-ba5c-3c1545215e72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forward >'])[1]/following::a[1]</value>
+      <webElementGuid>d7de1731-47c0-47d4-ab2a-8a5c3d1e9fa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='of 4'])[1]/following::a[1]</value>
+      <webElementGuid>5ad06a66-7ed8-49ca-9f55-d3a791b94988</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(SLC) 11/28 - 11/30'])[1]/preceding::a[11]</value>
+      <webElementGuid>6a3e1f30-658f-491a-b8b3-6ce86f2a16af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eugene Trujillo'])[2]/preceding::a[11]</value>
+      <webElementGuid>9e1d0593-8713-4378-9ee2-c6126b5526d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[13]</value>
+      <webElementGuid>b869312a-e933-45cd-a21a-e7dc94641ace</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/a</value>
+      <webElementGuid>cf743fe7-7545-4bba-8b0b-0d1545319950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = '
+                            Loop Name
+                        ' or . = '
+                            Loop Name
+                        ')]</value>
+      <webElementGuid>484b5932-28d1-452c-98eb-5a61166b1f23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

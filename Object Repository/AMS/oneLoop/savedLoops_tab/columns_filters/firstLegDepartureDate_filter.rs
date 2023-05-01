@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>firstLegDepartureDate_filter</name>
+   <tag></tag>
+   <elementGuidId>b388be4a-34bc-4a5f-a09f-c6a55ed3807e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='one-loop-saved-loops-table']/thead/tr/td[7]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td[name=&quot;FirstLegDeparture&quot;] > div.thead-arrow-div > a.target-new-sort-header</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>41866c01-b4f7-4209-91de-3e142e6f78a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>9e7273a7-0e57-4f99-b25b-19714dbd1dcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>target-new-sort-header</value>
+      <webElementGuid>92dd01f1-21f7-49a9-bb97-2b751af0fd2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sort</name>
+      <type>Main</type>
+      <value>FirstLegDeparture</value>
+      <webElementGuid>57ff758a-a049-462f-a251-26caef983170</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            First Leg Departure Date
+                        </value>
+      <webElementGuid>08df5541-63a4-4cfd-886a-365745289381</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;one-loop-saved-loops-table&quot;)/thead[1]/tr[1]/td[7]/div[@class=&quot;thead-arrow-div&quot;]/a[@class=&quot;target-new-sort-header&quot;]</value>
+      <webElementGuid>b04d23a8-379e-4137-9905-53f71c431b19</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='one-loop-saved-loops-table']/thead/tr/td[7]/div/a</value>
+      <webElementGuid>4c7170ba-1d27-4609-9fb4-197db6d25fbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'First Leg Departure Date')]</value>
+      <webElementGuid>fac4d674-e17a-4aad-b57c-167be81430c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forward >'])[1]/following::a[7]</value>
+      <webElementGuid>0fd3b3df-c76e-4035-a6db-5f9248d66c61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='of 4'])[1]/following::a[7]</value>
+      <webElementGuid>3db796e5-0bfb-4d0e-929e-51062bff96d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(SLC) 11/28 - 11/30'])[1]/preceding::a[5]</value>
+      <webElementGuid>d5660a1b-eaba-4692-9814-66364b7656b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eugene Trujillo'])[2]/preceding::a[5]</value>
+      <webElementGuid>2c83e4c1-98f3-495c-9742-18a0df95181c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[19]</value>
+      <webElementGuid>755279d7-4eca-49b6-9a20-586e36d26a81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/div/a</value>
+      <webElementGuid>9fe372a4-fa2b-427f-b335-1f26ed8bf420</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = '
+                            First Leg Departure Date
+                        ' or . = '
+                            First Leg Departure Date
+                        ')]</value>
+      <webElementGuid>6a3e3911-3f41-441f-8b02-f8853b77825f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

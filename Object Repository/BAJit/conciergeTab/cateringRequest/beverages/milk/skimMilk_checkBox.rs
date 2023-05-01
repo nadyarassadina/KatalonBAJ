@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>skimMilk_checkBox</name>
+   <tag></tag>
+   <elementGuidId>728bd8f7-09e4-4d68-8bb6-5524e1ccebd6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='Milk-options']/li[4]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>d366a3ab-8d66-4b0c-b285-0c0fd17d574b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>MilkSkim Milk</value>
+      <webElementGuid>cff6f7d5-15d5-4835-a65a-770b03ad383f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Skim Milk</value>
+      <webElementGuid>9cde4171-125a-44f2-8304-e63349e180c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Milk-options&quot;)/li[4]/label[1]</value>
+      <webElementGuid>d8030e32-31aa-492d-a513-0290b544706d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='Milk-options']/li[4]/label</value>
+      <webElementGuid>61f8cc7b-fe6b-48ae-9784-f0fb75afe364</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Whole Milk'])[1]/following::label[2]</value>
+      <webElementGuid>f01227e8-f707-4693-a150-3fe6a0d1014e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select'])[19]/following::label[3]</value>
+      <webElementGuid>358f6223-fe7f-4366-9f80-21800607005f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organic Milk'])[1]/preceding::label[1]</value>
+      <webElementGuid>d095c426-6f12-4bd6-8097-da9476f1423b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Soy Milk'])[1]/preceding::label[2]</value>
+      <webElementGuid>1275433d-548c-417b-a31c-450c54df6de8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Skim Milk']/parent::*</value>
+      <webElementGuid>8ca8599f-3f59-4dca-8336-f4beabd1439a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/h4[2]/ul/li[4]/label</value>
+      <webElementGuid>d393ec96-0a1b-4aff-809f-8b8a4734a676</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Skim Milk' or . = 'Skim Milk')]</value>
+      <webElementGuid>1b3cb504-ef8e-4bd2-9aaa-c96107e279fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

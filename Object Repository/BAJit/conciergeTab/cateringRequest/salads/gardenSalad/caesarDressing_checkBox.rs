@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>caesarDressing_checkBox</name>
+   <tag></tag>
+   <elementGuidId>48ef6b4f-9c94-4332-93db-16d18e05b084</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='GardenSalad-options']/li[3]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>c89e2347-450e-465a-b65d-61be0d52e4d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>GardenSaladCaesar Dressing</value>
+      <webElementGuid>e2865f23-148c-4460-9734-2edff1978352</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Caesar Dressing</value>
+      <webElementGuid>badfa42e-d9fd-48c4-bc6c-22a51f9e06b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;GardenSalad-options&quot;)/li[3]/label[1]</value>
+      <webElementGuid>e7cb6a20-64c8-415e-b50d-9b80ebbb9c69</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='GardenSalad-options']/li[3]/label</value>
+      <webElementGuid>4648e906-7f17-44c2-b29a-e259e2f4cd12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ranch Dressing'])[2]/following::label[1]</value>
+      <webElementGuid>20b4e538-8a8b-4fbc-9aa0-deea9f4f3728</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select'])[15]/following::label[2]</value>
+      <webElementGuid>671141e3-a570-40f7-9b37-6e14622c1088</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blue Cheese Dressing'])[2]/preceding::label[1]</value>
+      <webElementGuid>040e775e-84a7-496b-9008-117db2a3420d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vinaigrette Dressing'])[2]/preceding::label[2]</value>
+      <webElementGuid>7be2ab0e-8d62-416d-ab37-93f7ce290c69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4[4]/ul/li[3]/label</value>
+      <webElementGuid>82f22277-6e58-4c4d-bc9f-4b1264678140</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Caesar Dressing' or . = 'Caesar Dressing')]</value>
+      <webElementGuid>a757ba65-628a-4344-9857-35bb0ffb62a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

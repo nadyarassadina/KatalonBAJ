@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>flightTracking_button</name>
+   <tag></tag>
+   <elementGuidId>24947840-021f-4691-8727-bbf8bd6eb4a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menucontainer']/span/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.dropdown-toggle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f769ad8c-bf17-4df5-8277-161b5786bd2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-toggle</value>
+      <webElementGuid>e253bcc0-1787-4805-bd9a-21370e033367</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/BAJ/FlightTracking</value>
+      <webElementGuid>cf073619-bcb2-4634-ad3b-dd259c65d4b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Flight Tracking</value>
+      <webElementGuid>44bdaca7-71ad-45ef-bbec-394971ca0cea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menucontainer&quot;)/span[@class=&quot;collapse navbar-collapse navbar-ex1-collapse target-flight-search-menu-bar&quot;]/ul[@class=&quot;nav navbar-nav navbar-right&quot;]/li[@class=&quot;dropdown singleDrop&quot;]/a[@class=&quot;dropdown-toggle&quot;]</value>
+      <webElementGuid>f303d074-2a9b-4bb8-bec8-e512b3533666</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menucontainer']/span/ul/li/a</value>
+      <webElementGuid>aeaaee65-4c2b-41d9-b910-bc0a0fa7cd95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Flight Tracking')]</value>
+      <webElementGuid>a0387839-1bab-44eb-9cd0-8ac583268ba0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book A Jet'])[1]/preceding::a[1]</value>
+      <webElementGuid>0fb66ff9-5752-491d-814d-c97cfcd40d7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Empty Legs'])[1]/preceding::a[2]</value>
+      <webElementGuid>79fed72f-cb10-443d-8219-97a8e2ff9a93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Flight Tracking']/parent::*</value>
+      <webElementGuid>42b90890-0199-4782-9bf5-2987882ea002</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/BAJ/FlightTracking')]</value>
+      <webElementGuid>290a3548-163c-4bc3-8be7-73494ee1ee0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a</value>
+      <webElementGuid>c96a9556-00a6-4ff4-a73c-921893d64010</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/BAJ/FlightTracking' and (text() = 'Flight Tracking' or . = 'Flight Tracking')]</value>
+      <webElementGuid>2f5160c3-d497-46bc-83ce-b1bca0383252</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

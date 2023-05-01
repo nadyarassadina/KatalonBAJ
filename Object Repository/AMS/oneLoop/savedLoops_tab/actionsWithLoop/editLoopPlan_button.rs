@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>editLoopPlan_button</name>
+   <tag></tag>
+   <elementGuidId>bd478112-b5df-49df-8a8a-16c7412f94f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Edit Loop Plan']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.button-one-loop-small.target-edit-loop-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>60023c90-3aa3-43f0-90c4-3f6f1ed8b47c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e90a41aa-4435-4b81-815d-ef503e6e90ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-one-loop-small target-edit-loop-item</value>
+      <webElementGuid>71364b55-cad8-4df8-9854-e57e07346806</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Edit Loop Plan</value>
+      <webElementGuid>8f838a14-7667-469e-9142-a2b367a201d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-loop-id</name>
+      <type>Main</type>
+      <value>165</value>
+      <webElementGuid>2b314f26-d185-43bc-9355-ed4b3521ede1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;one-loop-detail&quot;)/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-body&quot;]/div[2]/div[2]/input[@class=&quot;button-one-loop-small target-edit-loop-item&quot;]</value>
+      <webElementGuid>fb4a3211-482b-4e6b-948c-0760ef1aca32</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Edit Loop Plan']</value>
+      <webElementGuid>c4302bd4-e2ac-4e5a-bddd-4a9fab9b3947</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='one-loop-detail']/div/div/div[2]/div[2]/input[5]</value>
+      <webElementGuid>ab1fb78c-a29d-4422-95ba-85e1141ccde8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input[5]</value>
+      <webElementGuid>965e2fa8-2469-458a-98de-8d66c774633d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>696416a1-583a-4b6b-a167-1d1c2f4cf15c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

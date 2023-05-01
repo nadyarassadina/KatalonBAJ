@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>modifiedBy_filter</name>
+   <tag></tag>
+   <elementGuidId>adebbae9-57ff-47be-9157-b15c23d30b84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='one-loop-saved-loops-table']/thead/tr/td[10]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td[name=&quot;UpdatedByFullName&quot;] > div.thead-arrow-div > a.target-new-sort-header</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4e490fc7-7195-4c0e-b0de-1c6171896796</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>3f45bb61-308e-4498-8734-b882fe707c3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>target-new-sort-header</value>
+      <webElementGuid>c331a326-883b-4c8c-9cf7-b9a648c5f7eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sort</name>
+      <type>Main</type>
+      <value>UpdatedByFullName</value>
+      <webElementGuid>9582064c-0606-41e6-a6de-2a529b9f2892</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            Modified By
+                        </value>
+      <webElementGuid>cb8af829-13d8-4320-84d4-3f96b270ebe3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;one-loop-saved-loops-table&quot;)/thead[1]/tr[1]/td[10]/div[@class=&quot;thead-arrow-div&quot;]/a[@class=&quot;target-new-sort-header&quot;]</value>
+      <webElementGuid>b7bb7359-8474-4983-9575-a8204a7c779f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='one-loop-saved-loops-table']/thead/tr/td[10]/div/a</value>
+      <webElementGuid>3a47bcce-c4f6-4b24-8ed4-f3e3508d28b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Modified By')]</value>
+      <webElementGuid>ec12a6ea-712a-4d15-8e28-95d2aeb59195</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forward >'])[1]/following::a[10]</value>
+      <webElementGuid>3084b608-39f3-41f5-a794-1ee31086e854</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='of 4'])[1]/following::a[10]</value>
+      <webElementGuid>8a941bec-1971-4455-8d64-be3dfee46bb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(SLC) 11/28 - 11/30'])[1]/preceding::a[2]</value>
+      <webElementGuid>0b451c81-18f2-47f7-ad0e-13f74f0fad93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eugene Trujillo'])[2]/preceding::a[2]</value>
+      <webElementGuid>c9b8b76b-fa47-4c66-a942-c4f70a1a2569</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Modified By']/parent::*</value>
+      <webElementGuid>23eb4346-cca7-4549-a901-83680571a171</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[22]</value>
+      <webElementGuid>370f593d-3b9d-42c8-89fd-f21facbac45e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[10]/div/a</value>
+      <webElementGuid>3f49c773-2a13-411a-bf4e-975e15af6222</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = '
+                            Modified By
+                        ' or . = '
+                            Modified By
+                        ')]</value>
+      <webElementGuid>5d4af3c7-35a4-4500-b894-46576ab60453</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>openAnotherMailbox</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>243b9eea-6c4a-49b7-bd52-4edf29524aff</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1c2fd76f-0fd5-4ed9-95f0-51e7d0edcb83</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'OFI Development Team'</defaultValue>
+      <description></description>
+      <id>1c2fd76f-0fd5-4ed9-95f0-51e7d0edcb83</id>
+      <masked>false</masked>
+      <name>nameAnotherMailbox</name>
+   </variable>
+</TestCaseEntity>

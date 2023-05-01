@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>addNewQuote_button</name>
+   <tag></tag>
+   <elementGuidId>5a5cffb6-b044-4a92-8bac-a6dd596cd864</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Add New Quote']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.btn.btn-primary.target-add-operator-quote</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>297eb339-a3c3-4c93-88e0-0e83bad5995a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>495339f1-01a6-46fc-a036-8e74b9bfdf6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary target-add-operator-quote</value>
+      <webElementGuid>cad24dc2-1179-49d3-b8e9-8acd06fb5901</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Add New Quote</value>
+      <webElementGuid>e9506218-6b57-4332-9bf6-70508bd70629</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;OperatorQuotes&quot;)/div[@class=&quot;col-xs-12 float-right text-right&quot;]/input[@class=&quot;btn btn-primary target-add-operator-quote&quot;]</value>
+      <webElementGuid>4c325de2-0a81-43df-a95d-9a70df0222d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Add New Quote']</value>
+      <webElementGuid>792078cd-4e8e-415d-a387-a9e0506157ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='OperatorQuotes']/div/input[2]</value>
+      <webElementGuid>3626f89d-6422-4824-a520-c56bb4e5b337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/input[2]</value>
+      <webElementGuid>dafc15a7-c620-45da-93c2-97f199e778ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>4a5bcf8d-cd0e-41f1-8037-ff9dcf4b5b76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

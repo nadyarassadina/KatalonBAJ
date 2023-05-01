@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>2PercentMilk_checkBox</name>
+   <tag></tag>
+   <elementGuidId>e9a7f25a-f8e3-497c-8574-b3f3f14ffcea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='Milk-options']/li[3]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>3066dddf-1f46-43fe-84c3-b3102a971fec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>Milk2 Percent Milk</value>
+      <webElementGuid>f57542be-52fe-4ac7-a659-e456fb44e0f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2 Percent Milk</value>
+      <webElementGuid>20d6f2a6-e989-4479-a3cd-ee1f0bd008a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Milk-options&quot;)/li[3]/label[1]</value>
+      <webElementGuid>bce37c42-4926-48dd-8549-65e05031389b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='Milk-options']/li[3]/label</value>
+      <webElementGuid>d28a23da-b538-4f7e-a9c6-30b0002cc386</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Whole Milk'])[1]/following::label[1]</value>
+      <webElementGuid>6057d267-bdf6-45cc-b6a6-51407eadac08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select'])[19]/following::label[2]</value>
+      <webElementGuid>d826a1c3-408a-4db9-872a-a0ed7ce4f093</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skim Milk'])[1]/preceding::label[1]</value>
+      <webElementGuid>233352a2-4746-4203-a1f8-4ea54872098f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organic Milk'])[1]/preceding::label[2]</value>
+      <webElementGuid>23571df7-2f4a-4f33-b894-ab934df1aecf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2 Percent Milk']/parent::*</value>
+      <webElementGuid>2ba2df64-1c9b-4833-8e36-6b89d99500e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/h4[2]/ul/li[3]/label</value>
+      <webElementGuid>8b74a688-8dd2-432f-b643-07a461bbdfe2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '2 Percent Milk' or . = '2 Percent Milk')]</value>
+      <webElementGuid>0effd9d9-4d32-4800-8f21-499183b50d96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

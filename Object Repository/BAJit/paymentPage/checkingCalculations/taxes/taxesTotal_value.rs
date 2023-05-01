@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>taxesTotal_value</name>
+   <tag></tag>
+   <elementGuidId>580e2c89-c3bc-469b-b689-03ebcd0a618a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ONEflightDownDropDivContents']/table/tbody/tr[3]/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>8ddabaf5-eb9d-469b-a5ba-6fff62e3da8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dd-txt dd-ttl dd-align-r</value>
+      <webElementGuid>071d2a05-959a-4646-ba74-9137221fccdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$5,908.43</value>
+      <webElementGuid>d48b5aed-88ee-477c-b1c3-ab8b9d004693</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ONEflightDownDropDivContents&quot;)/table[1]/tbody[1]/tr[3]/td[@class=&quot;dd-txt dd-ttl dd-align-r&quot;]</value>
+      <webElementGuid>61769bce-de15-40b6-9e1d-cce17b4afaca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ONEflightDownDropDivContents']/table/tbody/tr[3]/td[2]</value>
+      <webElementGuid>ebf4521f-30ce-4dd8-bdd5-7a2360650dbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[2]/following::td[1]</value>
+      <webElementGuid>127e4b77-dc12-43d9-bdaa-ca28d93b26f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$40.50'])[1]/following::td[2]</value>
+      <webElementGuid>ec309e47-14b5-4383-a2dd-b1469a59ac77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='X'])[1]/preceding::td[1]</value>
+      <webElementGuid>62986467-2707-4f0d-8efe-df45542c435f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create your account'])[1]/preceding::td[1]</value>
+      <webElementGuid>a89168e7-0377-409e-9d8a-0e92c15c3817</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr[3]/td[2]</value>
+      <webElementGuid>0debf00b-f2b9-4c7b-af71-92b416a1c8fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '$5,908.43' or . = '$5,908.43')]</value>
+      <webElementGuid>adbfcd7f-20ca-4eb1-88ca-2c594c891d68</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

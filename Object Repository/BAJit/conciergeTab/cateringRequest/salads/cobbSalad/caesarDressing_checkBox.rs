@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>caesarDressing_checkBox</name>
+   <tag></tag>
+   <elementGuidId>9c8890db-3f05-4502-b725-229adab85853</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='CobbSalad-options']/li[5]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>8da6890d-286d-4ed2-83b3-f349bba10ef3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>CobbSaladCaesar Dressing</value>
+      <webElementGuid>ad80899f-3acc-4d6e-a0ef-3aae0120436f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Caesar Dressing</value>
+      <webElementGuid>ae9c0cce-3ad9-4932-8da1-4ce944bc9c63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CobbSalad-options&quot;)/li[5]/label[1]</value>
+      <webElementGuid>01f2c9d4-0edd-4e99-98b2-025a07202c6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='CobbSalad-options']/li[5]/label</value>
+      <webElementGuid>7af6858f-8236-47bb-8e68-603f1a58241e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ranch Dressing'])[1]/following::label[1]</value>
+      <webElementGuid>af028885-11c6-48a5-bb10-f490cf3e62ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Turkey Breast'])[1]/following::label[2]</value>
+      <webElementGuid>326ffb4d-c1bb-4898-9e9b-2e294be7d03d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blue Cheese Dressing'])[1]/preceding::label[1]</value>
+      <webElementGuid>45a0e059-c1c8-4570-b53f-7cd71cff75af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vinaigrette Dressing'])[1]/preceding::label[2]</value>
+      <webElementGuid>0d833f36-0072-4bec-8472-edc764baad4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Caesar Dressing']/parent::*</value>
+      <webElementGuid>aaaddc44-9217-4358-9a62-3382ca24f524</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/label</value>
+      <webElementGuid>94c2112d-7288-4403-9dcf-d16ded103aa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Caesar Dressing' or . = 'Caesar Dressing')]</value>
+      <webElementGuid>ad14e1b6-8e18-4382-9baf-1219b1157bac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

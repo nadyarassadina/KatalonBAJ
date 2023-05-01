@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>signInToOutlook</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>24e562d7-255d-4b4e-8960-6e33e494385b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4d357059-0300-4079-8b79-cee991fa2c33</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d30c0092-5187-4a4b-97de-3c8912c4bd0c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>43c894c6-d4f9-4944-a1d3-8e1bb10ecf0f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://outlook.office.com/mail/'</defaultValue>
+      <description></description>
+      <id>4d357059-0300-4079-8b79-cee991fa2c33</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'NadyaRassadina@ONEflight.net'</defaultValue>
+      <description></description>
+      <id>d30c0092-5187-4a4b-97de-3c8912c4bd0c</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'GrI/bbw6kUmuPgmOftXHhQ=='</defaultValue>
+      <description></description>
+      <id>43c894c6-d4f9-4944-a1d3-8e1bb10ecf0f</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

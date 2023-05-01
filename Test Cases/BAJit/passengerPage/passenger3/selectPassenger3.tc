@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>selectPassenger3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ecdc3c7d-f725-4ea3-94c0-365a1177eba9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>955b52ba-9c1a-4f2b-8185-ad0866da56f5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Jane Katalon'</defaultValue>
+      <description></description>
+      <id>955b52ba-9c1a-4f2b-8185-ad0866da56f5</id>
+      <masked>false</masked>
+      <name>passenger3</name>
+   </variable>
+</TestCaseEntity>

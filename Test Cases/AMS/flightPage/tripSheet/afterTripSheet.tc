@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>afterTripSheet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>46bf76f7-a348-415e-bb1a-39e2ab89a83d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>632e5d12-c7b2-4198-bca8-364002861dca</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>93976f8f-74b3-4295-b7b8-89c460827f41</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'accountBalance'</defaultValue>
+      <description></description>
+      <id>632e5d12-c7b2-4198-bca8-364002861dca</id>
+      <masked>false</masked>
+      <name>accauntBalance</name>
+   </variable>
+   <variable>
+      <defaultValue>'hoursBalance'</defaultValue>
+      <description></description>
+      <id>93976f8f-74b3-4295-b7b8-89c460827f41</id>
+      <masked>false</masked>
+      <name>hoursBalance</name>
+   </variable>
+</TestCaseEntity>

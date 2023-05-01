@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dismissAll_button</name>
+   <tag></tag>
+   <elementGuidId>1ae3e66d-16d6-4970-8caa-ab6bedde1fd6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fluent-default-layer-host']/div[2]/div/div/div[4]/div/div[2]/button[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.NjedZ > button.ms-Button.ms-Button--icon.root-282 > span.ms-Button-flexContainer.flexContainer-164</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1683fa25-a8b8-4e88-8fb0-526b55a5169a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-Button-flexContainer flexContainer-164</value>
+      <webElementGuid>9028ffdb-6b6e-4a30-ba50-e5007457a43f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-automationid</name>
+      <type>Main</type>
+      <value>splitbuttonprimary</value>
+      <webElementGuid>d876c744-c9e9-4417-b544-ee5b57bcf598</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>d9a8ee99-0245-45b0-9214-acef85ff9c45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fluent-default-layer-host&quot;)/div[@class=&quot;ms-Layer ms-Layer--fixed Ru87h root-324&quot;]/div[@class=&quot;ms-Fabric ms-Layer-content content-301 ms-Fabric--isFocusHidden&quot;]/div[@class=&quot;ki0YS&quot;]/div[@class=&quot;gdyjx css-322&quot;]/div[@class=&quot;yh7pH OXT66&quot;]/div[@class=&quot;NjedZ&quot;]/button[@class=&quot;ms-Button ms-Button--icon root-282&quot;]/span[@class=&quot;ms-Button-flexContainer flexContainer-164&quot;]</value>
+      <webElementGuid>82eafa8c-fad5-4ae5-9406-997b12c98eb0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fluent-default-layer-host']/div[2]/div/div/div[4]/div/div[2]/button[2]/span</value>
+      <webElementGuid>4aa381f5-e9e3-4a0e-bb36-dc675745f29d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dismiss all'])[1]/following::span[1]</value>
+      <webElementGuid>2ca4a74c-bdd8-45c4-bddd-24e699c40484</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reminders'])[1]/following::span[4]</value>
+      <webElementGuid>73ed418b-0e93-4c3c-b4b9-d3dfd81a5c99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Canceled: Stand-up meeting at 11am'])[1]/preceding::span[1]</value>
+      <webElementGuid>7c44f8f6-9b33-48a4-8879-8b695fe30904</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dev conference table'])[1]/preceding::span[1]</value>
+      <webElementGuid>1760603f-22a8-434a-bf3e-07fd2697e93a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button[2]/span</value>
+      <webElementGuid>add2dbdc-7dde-4d13-b691-00d9f713250d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '' or . = '')]</value>
+      <webElementGuid>fbf70f4d-a416-492d-866a-bd796781b376</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

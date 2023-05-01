@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>charterProspect_tab</name>
+   <tag></tag>
+   <elementGuidId>3a1f87a8-29cd-4042-bdec-5946acff96a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div[2]/div[3]/div/div[2]/div/div/ul[3]/li/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b09d22c0-1896-4aaf-99b3-56c21a6fa12d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ams/CharterProspectList</value>
+      <webElementGuid>ad54ea74-916d-407a-a3c3-6927fd1014ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>left-menu-sub-level</value>
+      <webElementGuid>4185b926-44a2-4ec8-b94a-406aae4f98b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Charter Prospect</value>
+      <webElementGuid>7d421b5f-a22b-46d7-bc51-7e3d5d7d3ec6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;top_wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;body-wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row col-xs-12&quot;]/div[@class=&quot;col-xs-2 no-padding left-menu&quot;]/ul[@class=&quot;no-padding&quot;]/li[1]/ul[1]/li[2]/a[@class=&quot;left-menu-sub-level&quot;]</value>
+      <webElementGuid>94ff5566-f137-45e7-992d-5f85938e0447</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[2]/div[3]/div/div[2]/div/div/ul[3]/li/ul/li[2]/a</value>
+      <webElementGuid>4c31ef6f-71bc-491d-a9c4-cea316fd3981</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Charter Prospect')]</value>
+      <webElementGuid>041376d0-2890-4d30-bf78-40098e29d73f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prospects'])[2]/following::a[1]</value>
+      <webElementGuid>bba81d4b-2fcd-4ad9-b8f4-4216ebed64b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prospects'])[1]/following::a[2]</value>
+      <webElementGuid>dd96b52f-275f-4415-8379-559d8db3ccb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hot List'])[1]/preceding::a[1]</value>
+      <webElementGuid>28f900eb-3aa9-457f-86de-beeee9eef8fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Closing List'])[1]/preceding::a[2]</value>
+      <webElementGuid>11dc7746-7993-4bf2-9214-4452dfb6c112</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Charter Prospect']/parent::*</value>
+      <webElementGuid>7869fd0a-8f18-45a1-82a9-365bcac6e6ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/ams/CharterProspectList')]</value>
+      <webElementGuid>9888f8a9-30c9-4de9-baf4-bc75c7b4b7af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[3]/li/ul/li[2]/a</value>
+      <webElementGuid>7577988b-6287-47fb-a1e6-cfa9969ecf14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/ams/CharterProspectList' and (text() = 'Charter Prospect' or . = 'Charter Prospect')]</value>
+      <webElementGuid>d07d8bc8-9300-4008-a163-580ea7f71ccf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

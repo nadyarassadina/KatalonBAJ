@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pestoSauce_checkBox</name>
+   <tag></tag>
+   <elementGuidId>a77dc6f5-4815-449d-88a5-603963ede484</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='Pasta-options']/li[5]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>743572a7-273b-445d-951d-73366fdc7936</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>PastaPesto Sauce</value>
+      <webElementGuid>4ca1f8dd-f362-411b-9553-4388de5bd491</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pesto Sauce</value>
+      <webElementGuid>332a5940-c2f8-4162-9825-45e2515333d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Pasta-options&quot;)/li[5]/label[1]</value>
+      <webElementGuid>a57d2f9b-f635-473e-a15d-4b83b8e6bc40</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='Pasta-options']/li[5]/label</value>
+      <webElementGuid>112617fe-7b8c-4414-87d7-6167aef835fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alfredo Sauce'])[1]/following::label[1]</value>
+      <webElementGuid>83abad20-766d-4e81-942b-2131f7358eca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marinara Sauce'])[1]/following::label[2]</value>
+      <webElementGuid>962e9163-b851-49cb-816f-d7ed9e3e096b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Done'])[5]/preceding::label[1]</value>
+      <webElementGuid>ffa5b3a6-9f8d-4fa8-b453-7d148849c459</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Platters'])[1]/preceding::label[1]</value>
+      <webElementGuid>00b48c69-604f-47d6-a589-652d6b9b5ff3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pesto Sauce']/parent::*</value>
+      <webElementGuid>4315b153-c1dc-4b2a-826c-afacf401cc7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/h4[4]/ul/li[5]/label</value>
+      <webElementGuid>295c4dc9-8bdd-4d03-844e-c036bb5fb5e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Pesto Sauce' or . = 'Pesto Sauce')]</value>
+      <webElementGuid>8f7acbad-8ea6-474d-b996-8fb754e4b22f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

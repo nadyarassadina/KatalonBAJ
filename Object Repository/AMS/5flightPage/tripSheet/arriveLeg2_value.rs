@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>arriveLeg2_value</name>
+   <tag></tag>
+   <elementGuidId>1d9c6755-1057-4f1d-8209-a04eba28c790</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='FlightPlan']/div/div/div[2]/div[2]/div[2]/div[4]/div[2]/div[2]/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>935f608c-ac9d-4ddc-9e7d-56f5000f96ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>time-display font-red</value>
+      <webElementGuid>5b6d87de-3b13-46e6-bc40-a40ffbbe908b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>09:42 AM</value>
+      <webElementGuid>a4957eef-cbed-454a-aa58-78d80141f01a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FlightPlan&quot;)/div[@class=&quot;content target-flight-plan-main&quot;]/div[@class=&quot;row ams-workflow-container&quot;]/div[@class=&quot;col-xs-8 target-flight-plan-trip-request-main&quot;]/div[@class=&quot;content target-flight-plan-trip-request-aircraft-list request-list&quot;]/div[@class=&quot;target-sheet-tool&quot;]/div[@class=&quot;leg-detail-container&quot;]/div[@class=&quot;row leg-details&quot;]/div[@class=&quot;col-xs-6 trip-leg-details&quot;]/div[@class=&quot;col-xs-4 trip-leg-type grey-background&quot;]/span[@class=&quot;time-display font-red&quot;]</value>
+      <webElementGuid>2c485e3b-55bf-4a11-99d2-b30d1c991c8d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='FlightPlan']/div/div/div[2]/div[2]/div[2]/div[4]/div[2]/div[2]/div/span[2]</value>
+      <webElementGuid>603dafad-2882-4fb1-a19d-3a61f852b8e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ARRIVE'])[2]/following::span[1]</value>
+      <webElementGuid>ce0b9f45-36d9-4354-861a-d473d143bc89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hartsfield Jackson Atlanta International Airport'])[2]/following::span[2]</value>
+      <webElementGuid>1bf9d636-92ae-4b21-88ab-df9b123c4441</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KDEN'])[3]/preceding::span[1]</value>
+      <webElementGuid>0ab7d06f-f3a8-41da-a8ec-82ef2d1d33e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Denver International Airport'])[1]/preceding::span[1]</value>
+      <webElementGuid>49268447-7938-4f3c-81f4-b7c06dc37ecd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='09:42 AM']/parent::*</value>
+      <webElementGuid>623a6be1-9890-4533-aa03-747661ce67b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div[2]/div/span[2]</value>
+      <webElementGuid>80e9ac27-b6d8-44d5-9a14-17a2ced9e506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '09:42 AM' or . = '09:42 AM')]</value>
+      <webElementGuid>7c3d1169-c8a4-4aed-aa3b-586af9f48155</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

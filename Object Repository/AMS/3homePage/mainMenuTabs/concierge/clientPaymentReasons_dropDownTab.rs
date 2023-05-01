@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>clientPaymentReasons_dropDownTab</name>
+   <tag></tag>
+   <elementGuidId>2ce4082d-7374-4e4a-bcc7-0162af63a0be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/div/div/div[2]/nav/ul/li[4]/ul/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Client Payment Reasons&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4b5b45a3-d41b-4f1b-84e3-3c03a90aea86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ClientConciergePaymentReason/ClientConciergePaymentReason</value>
+      <webElementGuid>ba366c45-40e1-42e3-8efd-ef4c0a4b6585</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Client Payment Reasons</value>
+      <webElementGuid>93665087-7c57-4dbc-a279-f4b826b3bccd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Client Payment Reasons</value>
+      <webElementGuid>d5b9e238-39c8-47aa-9327-08d05dce6ae7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;top_wrapper&quot;]/header[@id=&quot;header&quot;]/header[@id=&quot;header&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row header flex-bottom&quot;]/div[@class=&quot;col-md-12&quot;]/nav[1]/ul[@class=&quot;navigation&quot;]/li[4]/ul[@class=&quot;show-sub-menu&quot;]/li[4]/a[1]</value>
+      <webElementGuid>86d161dd-5f5f-4cd4-9859-25984dc6cab8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/div/div/div[2]/nav/ul/li[4]/ul/li[4]/a</value>
+      <webElementGuid>828fee99-73ee-48ca-b994-c6cdfe44d25f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Client Payment Reasons')]</value>
+      <webElementGuid>d201216d-b137-4396-bfd3-65f5d6439c6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Concierge Menu Editor'])[1]/following::a[1]</value>
+      <webElementGuid>d5098cde-cda0-4bf6-9afd-441620e85085</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Concierge Manager'])[1]/following::a[2]</value>
+      <webElementGuid>07dcc970-1bf7-403f-ad57-847163fec271</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tools'])[1]/preceding::a[1]</value>
+      <webElementGuid>464ae716-5fb2-473f-a96f-9eb5f3f3f0eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ONEloop'])[1]/preceding::a[2]</value>
+      <webElementGuid>bf74fafa-1a6b-494f-954f-a396bdb616b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Client Payment Reasons']/parent::*</value>
+      <webElementGuid>b54f6748-1326-4321-8b80-716e6f77adb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/ClientConciergePaymentReason/ClientConciergePaymentReason')]</value>
+      <webElementGuid>c49b9453-6fa5-4dd4-b9c2-9f667abe81a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li[4]/a</value>
+      <webElementGuid>1109b112-8664-4cd4-9f34-c7c81a370166</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/ClientConciergePaymentReason/ClientConciergePaymentReason' and @title = 'Client Payment Reasons' and (text() = 'Client Payment Reasons' or . = 'Client Payment Reasons')]</value>
+      <webElementGuid>21726cce-5bf4-43f9-8664-057460029c3e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

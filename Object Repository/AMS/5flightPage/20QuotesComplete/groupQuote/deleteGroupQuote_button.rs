@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>deleteGroupQuote_button</name>
+   <tag></tag>
+   <elementGuidId>e77657ef-c61d-40cd-9cd3-35e146452aa8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='quotes-table']/tbody/tr[2]/td[8]/div/a[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-times</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>d790747e-3531-44c5-8062-7ed662059a11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-times</value>
+      <webElementGuid>770e0012-4116-4f3c-890d-e1627b099c25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;quotes-table&quot;)/tbody[1]/tr[@class=&quot;target-opquote-tr  light-grey-background&quot;]/td[8]/div[1]/a[@class=&quot;ams-table target-operator-quotes-group-cancel&quot;]/i[@class=&quot;fa fa-times&quot;]</value>
+      <webElementGuid>6e15f1f6-48b7-43f5-ad58-ad45f675136f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='quotes-table']/tbody/tr[2]/td[8]/div/a[2]/i</value>
+      <webElementGuid>defeaf47-add3-4b35-a5e4-1c3d5acfbb54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/i</value>
+      <webElementGuid>5ae2af59-ba76-4f7a-8de0-dfdfdab47a18</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

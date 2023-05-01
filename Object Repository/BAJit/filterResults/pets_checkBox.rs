@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pets_checkBox</name>
+   <tag></tag>
+   <elementGuidId>9cba5788-e9b3-4dcb-aef3-82677b42dfd4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#AmenitiesPanel > div.panel-body > div.check-box-list > div.row > div.form-check.col-sm-12.medium-padding > label.checkbox-custom-label.form-check-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AmenitiesPanel']/div/div/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>b018f129-fd39-4cb0-867d-bcbbdb146b69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>AllowsPets</value>
+      <webElementGuid>b5fcacef-7cc8-4629-8939-a9523a91bf5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkbox-custom-label form-check-label</value>
+      <webElementGuid>c75346fa-b0d9-4b10-861d-211db2189a02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pets (62)</value>
+      <webElementGuid>fabb8941-346a-4acd-8f6d-bdae6e8a2f2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AmenitiesPanel&quot;)/div[@class=&quot;panel-body&quot;]/div[@class=&quot;check-box-list&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;form-check col-sm-12 medium-padding&quot;]/label[@class=&quot;checkbox-custom-label form-check-label&quot;]</value>
+      <webElementGuid>044b8879-d4ec-4b19-ae8b-3b5e6d610bc2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AmenitiesPanel']/div/div/div/div/label</value>
+      <webElementGuid>ea5d5f8c-dbcd-4026-8076-a71635fa4ecb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amenities'])[1]/following::label[1]</value>
+      <webElementGuid>32485628-2460-4044-a992-496223cb37fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(9)'])[2]/following::label[1]</value>
+      <webElementGuid>0bf1bf4a-875b-43b0-b364-7d5e021194f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pets']/parent::*</value>
+      <webElementGuid>6384cf48-9935-482e-8e7a-bb50cd43ea77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/label</value>
+      <webElementGuid>2abd2ec6-6bf3-4852-a67c-fb39e9f954cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Pets (62)' or . = 'Pets (62)')]</value>
+      <webElementGuid>bfa74878-f657-413b-bde0-e45980d48477</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

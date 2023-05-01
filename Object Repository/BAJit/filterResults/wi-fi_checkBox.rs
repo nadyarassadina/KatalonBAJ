@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>wi-fi_checkBox</name>
+   <tag></tag>
+   <elementGuidId>e40ac16a-4edc-488e-ba2c-92349cf9c226</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AmenitiesPanel']/div/div/div/div[2]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>03eba3ea-dd76-45df-b173-200302c24165</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>HasWifi</value>
+      <webElementGuid>7e6e064b-6009-4413-991f-cccbde406d1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkbox-custom-label form-check-label</value>
+      <webElementGuid>aaa05c79-f9b1-4d18-ab1d-1bbdaacb62f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Wi-Fi (37)</value>
+      <webElementGuid>88d72aaf-ca25-4a91-abac-101dab813675</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AmenitiesPanel&quot;)/div[@class=&quot;panel-body&quot;]/div[@class=&quot;check-box-list&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;form-check col-sm-12 medium-padding&quot;]/label[@class=&quot;checkbox-custom-label form-check-label&quot;]</value>
+      <webElementGuid>fcb9dfe9-46e2-4661-859b-e04e138412b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AmenitiesPanel']/div/div/div/div[2]/label</value>
+      <webElementGuid>d01f79f4-43c9-4b4c-8a69-ae8693fafb08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(62)'])[1]/following::label[1]</value>
+      <webElementGuid>8de76d4e-ed8c-4a6e-b7e1-271ee680f149</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fuel Stops'])[1]/preceding::label[1]</value>
+      <webElementGuid>2b886f67-b11e-4210-8468-26401f8a9099</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Wi-Fi']/parent::*</value>
+      <webElementGuid>c2d55dde-8833-411f-afa0-ce73846ef03b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/label</value>
+      <webElementGuid>272145cd-9925-41cf-a261-70aff3f6e68a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Wi-Fi (37)' or . = 'Wi-Fi (37)')]</value>
+      <webElementGuid>42c3f2be-2af8-4083-a9d2-44baa6c18240</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

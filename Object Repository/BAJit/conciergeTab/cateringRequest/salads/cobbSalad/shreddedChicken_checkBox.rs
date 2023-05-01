@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>shreddedChicken_checkBox</name>
+   <tag></tag>
+   <elementGuidId>5980beaf-342b-48e3-be70-0661ce61f3e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='CobbSalad-options']/li[2]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>477d0d6d-9fa7-4ed3-8a0f-42875c898578</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>CobbSaladShredded Chicken</value>
+      <webElementGuid>00571dd6-b980-4381-b1cf-dce299ba8084</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shredded Chicken</value>
+      <webElementGuid>e458de09-1e50-4ef7-929b-2d8ccf9c908e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CobbSalad-options&quot;)/li[2]/label[1]</value>
+      <webElementGuid>c9ef4579-8384-4a9e-a062-d95347a00f2c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='CobbSalad-options']/li[2]/label</value>
+      <webElementGuid>5ffa4d57-c51e-432f-bac3-ec83192dd01e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select'])[14]/following::label[1]</value>
+      <webElementGuid>b6ee4725-4319-4537-8d5e-02476a881a0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(1)'])[7]/following::label[1]</value>
+      <webElementGuid>1c05c085-e192-420d-a5f1-d5274fab9e07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Turkey Breast'])[1]/preceding::label[1]</value>
+      <webElementGuid>417954a2-924c-4c58-b0c1-bf4c32ee29b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ranch Dressing'])[1]/preceding::label[2]</value>
+      <webElementGuid>9b6dccef-e72c-4f70-8435-74421d580f1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Shredded Chicken']/parent::*</value>
+      <webElementGuid>bdd9429f-e147-4438-ac3a-ca8a4968db6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/h4[2]/ul/li[2]/label</value>
+      <webElementGuid>4e9de557-4040-4812-b22c-c13e6cebafb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Shredded Chicken' or . = 'Shredded Chicken')]</value>
+      <webElementGuid>1ac5f03a-9bfb-4c48-867b-eac3020280ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

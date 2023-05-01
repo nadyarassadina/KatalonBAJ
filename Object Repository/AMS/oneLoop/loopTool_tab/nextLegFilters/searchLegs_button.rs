@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>searchLegs_button</name>
+   <tag></tag>
+   <elementGuidId>fa6a3691-7bba-4135-aaad-f2f5802982e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Search Legs']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.button-one-loop.target-one-loop-inputs-submit</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>d015d7c8-fe5d-45b2-a1ee-b103e60c4ff3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>74c6f85a-339b-457d-ad69-bf53db4f4cf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-one-loop target-one-loop-inputs-submit</value>
+      <webElementGuid>a63f0496-be32-4a7b-b318-2651cc432e38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Search Legs</value>
+      <webElementGuid>3e99a329-3055-40d2-8565-f23ad1367a0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;LoopTool&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-2&quot;]/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-body target-inputs-panel&quot;]/div[@class=&quot;one-loop-flex-column&quot;]/fieldset[2]/div[@class=&quot;one-loop-input-parameter-div&quot;]/div[3]/input[@class=&quot;button-one-loop target-one-loop-inputs-submit&quot;]</value>
+      <webElementGuid>ec325c2c-676c-4eff-9b56-6d88553ff479</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Search Legs']</value>
+      <webElementGuid>431c4874-a707-4f87-9737-bbd980219a15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='LoopTool']/div[2]/div/div/div/div/fieldset[2]/div[2]/div[3]/input</value>
+      <webElementGuid>207f2013-bdb7-4e41-95e5-fd877edc787b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/input</value>
+      <webElementGuid>be990827-9d80-4c5a-a6a9-5d6aa9ec146b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>83062c0d-f6b1-4849-a7ec-888765a973fa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CreateFlightPlan_button</name>
+   <tag></tag>
+   <elementGuidId>10612f26-b0f6-4ac6-a936-b773d50c1f6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Create Flight Plan']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.button-one-loop-small.target-create-flight-plan-from-loop</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>9a9fc1be-4309-443d-94ee-b667d6fa4968</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ba2c8c21-4bf5-4fe9-98e4-510ac3da483e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-one-loop-small target-create-flight-plan-from-loop</value>
+      <webElementGuid>fa17be1f-aa11-4b37-91b8-6fe87c87656f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Create Flight Plan</value>
+      <webElementGuid>bdf78429-fca5-40f2-b280-2b569ef78ea0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-loop-id</name>
+      <type>Main</type>
+      <value>129</value>
+      <webElementGuid>4f8a1971-feba-4898-a3c6-d9bb9c81af75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-loop-name</name>
+      <type>Main</type>
+      <value>(RVS) 11/24 - 11/27 - Due to sick pilot</value>
+      <webElementGuid>9f5c2cbe-2e12-417a-9e2b-30a700e11766</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-is-loop-activated</name>
+      <type>Main</type>
+      <value>True</value>
+      <webElementGuid>fc518189-b260-4ae8-8cc7-b23795423024</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;one-loop-detail&quot;)/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-body&quot;]/div[2]/div[2]/input[@class=&quot;button-one-loop-small target-create-flight-plan-from-loop&quot;]</value>
+      <webElementGuid>5b630527-a89f-4c20-bc63-c937033e6249</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Create Flight Plan']</value>
+      <webElementGuid>af300fea-f136-423f-9dfb-fd7304a75238</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='one-loop-detail']/div/div/div[2]/div[2]/input[4]</value>
+      <webElementGuid>dfd65fe1-1c1b-43b8-b694-2d26ec288f08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input[4]</value>
+      <webElementGuid>3665ff8e-3a38-46ad-9439-42671e2b61b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>132ee0c5-6f61-4ea3-a224-9bb9f1fde1cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

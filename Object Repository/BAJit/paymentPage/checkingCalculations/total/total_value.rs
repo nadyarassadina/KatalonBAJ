@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>total_value</name>
+   <tag></tag>
+   <elementGuidId>be921f6a-6d42-45e1-a3be-beea41db88ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>dd.font-weight-bold.baj-results-itinerary-total.darkbluefont.pull-right.text-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='FlightSearchResults']/div[2]/div/div/div/div/div/div[5]/div[2]/div/dl[2]/dd</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>dd</value>
+      <webElementGuid>f9ab3a51-0ab6-47b6-b07e-889991c5c75e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-weight-bold baj-results-itinerary-total darkbluefont pull-right text-right</value>
+      <webElementGuid>53d59909-c229-42d2-b2e2-854c8c99d073</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$70,749.71</value>
+      <webElementGuid>0c126be8-4307-4d77-a75d-b12f665e971a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FlightSearchResults&quot;)/div[@class=&quot;row sidepadding&quot;]/div[1]/div[@class=&quot;baj-results-itinerary-grid-box clearfix&quot;]/div[@class=&quot;col-xs-12 bg-white&quot;]/div[@class=&quot;target-baj-results-trip-itinerary-table&quot;]/div[@class=&quot;col-xs-12 clearfix&quot;]/div[@class=&quot;row border MarginTop MarginBottom&quot;]/div[@class=&quot;col-xs-8 col-sm-4 baj-results-trip-itinerary-trips-cost-details no-padding&quot;]/div[@class=&quot;row no-margin baj-results-itinerary-aircraft-payment-table&quot;]/dl[2]/dd[@class=&quot;font-weight-bold baj-results-itinerary-total darkbluefont pull-right text-right&quot;]</value>
+      <webElementGuid>19233ecb-b405-448b-8a25-61c54a1ab96b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='FlightSearchResults']/div[2]/div/div/div/div/div/div[5]/div[2]/div/dl[2]/dd</value>
+      <webElementGuid>1dd01120-10b6-4d6e-b100-40b53a31478c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/following::dd[1]</value>
+      <webElementGuid>ea57de02-a598-44c4-86ca-4800fd81f734</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$0.00'])[1]/following::dd[1]</value>
+      <webElementGuid>380c2291-ac76-4d8a-9313-f2512cfb51bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AMENITIES'])[1]/preceding::dd[1]</value>
+      <webElementGuid>d063be0e-c3d2-47b4-8c27-7c0dca187d7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='$70,749.71']/parent::*</value>
+      <webElementGuid>c42deb3a-2e0a-44e7-b820-1d5ca590f38b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//dl[2]/dd</value>
+      <webElementGuid>5ab5d955-d18d-42bc-8c39-f43ccdaf63a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//dd[(text() = '$70,749.71' or . = '$70,749.71')]</value>
+      <webElementGuid>140baedb-c681-4b74-8426-1dd8b8667734</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

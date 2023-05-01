@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>doneOrdering_button</name>
+   <tag></tag>
+   <elementGuidId>d3da70d2-c91c-4ec6-b6c9-c1287cb166cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.conscierge-submit-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='CateringMenuAccordion']/div[6]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>eee76522-a399-4f4e-a190-25b2c034bbd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>conscierge-submit-btn</value>
+      <webElementGuid>01eb5a6d-c3f7-4dd6-a130-450831a31375</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Done Ordering</value>
+      <webElementGuid>d03fd889-fef7-4a8f-b97e-1bc311c09f94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CateringMenuAccordion&quot;)/div[@class=&quot;col-xs-12 text-center&quot;]/button[@class=&quot;conscierge-submit-btn&quot;]</value>
+      <webElementGuid>d3e24e5c-1939-4116-8cba-83755ecc7eb4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='CateringMenuAccordion']/div[6]/button</value>
+      <webElementGuid>e9b3d3ab-1666-4ed4-808a-5822713c0ef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request for Leg 1'])[24]/following::button[1]</value>
+      <webElementGuid>429fc975-9d7e-4d0f-a68b-dbad753864c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='info@JetStyle.net'])[1]/preceding::button[1]</value>
+      <webElementGuid>bd862984-6758-4e24-95af-84ca2b436fdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COMPLIMENTARY ONBOARD CATERING MENU'])[2]/preceding::button[2]</value>
+      <webElementGuid>a418358c-30d8-4a84-b634-4d6e600965f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Done Ordering']/parent::*</value>
+      <webElementGuid>3693f060-7221-4f9a-9287-9a3583414c00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/button</value>
+      <webElementGuid>a7efb9e2-6856-40a1-aa7d-ad5df3f75f63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Done Ordering' or . = 'Done Ordering')]</value>
+      <webElementGuid>63860c11-4d41-4ee9-b370-077c4cf9c9eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>turkeyBreast_checkBox</name>
+   <tag></tag>
+   <elementGuidId>a54455aa-650b-40da-8a97-96fea9b77fc6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='CobbSalad-options']/li[3]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>afca22b4-67e2-4ba8-a89d-8372e5785402</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>CobbSaladTurkey Breast</value>
+      <webElementGuid>58141e74-d3d3-4d70-afc1-1a39cb949c36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Turkey Breast</value>
+      <webElementGuid>9c6f6bfc-42d3-4974-ac60-4662dc5c683c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CobbSalad-options&quot;)/li[3]/label[1]</value>
+      <webElementGuid>4ef99a36-4f3d-4bf7-925f-92715b46124c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='CobbSalad-options']/li[3]/label</value>
+      <webElementGuid>7120684f-0dbd-4141-a6ca-fba04278b696</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shredded Chicken'])[1]/following::label[1]</value>
+      <webElementGuid>a0a743b4-f867-4e17-89e0-f42424a6d43d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select'])[14]/following::label[2]</value>
+      <webElementGuid>0394980b-843b-4ddb-a780-20c49b6c3e94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ranch Dressing'])[1]/preceding::label[1]</value>
+      <webElementGuid>5d1e23fc-3881-40ce-ae45-a5e1150ccbcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Caesar Dressing'])[1]/preceding::label[2]</value>
+      <webElementGuid>e7b0c59e-a09f-4593-99e9-0d1c2bc71432</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Turkey Breast']/parent::*</value>
+      <webElementGuid>580d30a4-c3df-472f-b60b-e665af7c63d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/h4[2]/ul/li[3]/label</value>
+      <webElementGuid>6d71a2fa-1172-4f9e-aab4-ab5c9e6492e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Turkey Breast' or . = 'Turkey Breast')]</value>
+      <webElementGuid>86cbfb00-1826-4246-a692-7833f1cf3cf9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

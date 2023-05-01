@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>newDropoffQuote_button</name>
+   <tag></tag>
+   <elementGuidId>88892ded-d285-4994-a7bd-969bb6b207f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value='New Dropoff Quote'])[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#dropoff-quotes-leg-3 > div.panel-body > div.row > div.col-xs-12.col-sm-3 > div > input.baj-btn.target-new-concierge-quote</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>5ccaa73b-f85f-4ff1-830d-f87831c14dcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e6b998d5-6c75-4576-b2b4-312fd40d81e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-quote-type</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>eb4f3aea-0114-4c3f-9a70-69bc8faa5642</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-leg-id</name>
+      <type>Main</type>
+      <value>909637</value>
+      <webElementGuid>20470dc5-b571-4043-8f66-7fccc802a66c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-leg-number</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>7b20a84e-111a-40b1-8d2b-1606dd6fd57d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>New Dropoff Quote</value>
+      <webElementGuid>3de6bd1b-d74f-428e-9769-be93157a70ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>baj-btn target-new-concierge-quote</value>
+      <webElementGuid>c42f2a6c-86f3-4c10-a76b-a88968826d06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;concierge-quotes-accoridion-leg-3&quot;)/div[@class=&quot;panel request&quot;]/div[@id=&quot;dropoff-quotes-leg-3&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 col-sm-3&quot;]/div[1]/input[@class=&quot;baj-btn target-new-concierge-quote&quot;]</value>
+      <webElementGuid>c22157ab-d806-4fc9-8b71-fbd0b68a139a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value='New Dropoff Quote'])[5]</value>
+      <webElementGuid>fd27e0ef-c301-4ca1-afb0-b15a3e782db0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dropoff-quotes-leg-3']/div/div/div[2]/div/input</value>
+      <webElementGuid>d7ec3668-a35f-46bf-ae22-a08f037a58c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[3]/div[2]/div/div/div[2]/div/input</value>
+      <webElementGuid>7ddff46c-ab37-4a17-b343-e0488de95d86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>e03f76d7-353f-49a6-811e-33c3d4b78c76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

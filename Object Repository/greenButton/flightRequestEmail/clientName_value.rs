@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>clientName_value</name>
+   <tag></tag>
+   <elementGuidId>a651b44d-ea23-4d7e-aea1-e47a6ca110d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ReadingPaneContainerId']/div/div/div/div[2]/div/div/div/div/div/div/div/div[3]/div/div/div/div/table[2]/tbody/tr[2]/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>06a26b70-1c6a-4763-bb38-a4be6b26110a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>6ffde276-3827-4caf-91ca-b4c898f4872b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NadyaCL Katalon</value>
+      <webElementGuid>1a0e0ae2-ff36-4a9b-80b0-370cb0f7fdc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ReadingPaneContainerId&quot;)/div[1]/div[@class=&quot;g_zET&quot;]/div[@class=&quot;MtujV&quot;]/div[@class=&quot;L72vd&quot;]/div[@class=&quot;Q8TCC yyYQP customScrollBar&quot;]/div[1]/div[@class=&quot;aVla3&quot;]/div[1]/div[1]/div[@class=&quot;wide-content-host&quot;]/div[@class=&quot;SlLx9 isFirstCard byzS1&quot;]/div[@class=&quot;XbIp4 jmmB7 GNqVo yxtKT allowTextSelection&quot;]/div[1]/div[@class=&quot;rps_31ea&quot;]/div[1]/div[@class=&quot;x_WordSection1&quot;]/table[@class=&quot;x_baj_results_email_itin_table&quot;]/tbody[1]/tr[2]/td[2]</value>
+      <webElementGuid>3c9eafb6-b937-4e7a-a031-2dd7826a68b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ReadingPaneContainerId']/div/div/div/div[2]/div/div/div/div/div/div/div/div[3]/div/div/div/div/table[2]/tbody/tr[2]/td[2]</value>
+      <webElementGuid>e7ab1b3e-908f-4ab5-8f79-f8c2317789d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MEMBER:'])[1]/following::td[1]</value>
+      <webElementGuid>993511ec-5449-49fb-b092-a4fd3c3a3431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NK23040505'])[1]/following::td[2]</value>
+      <webElementGuid>97624ee7-fdb9-40a4-88fe-501bb3b9a57a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PAYMENT METHOD:'])[1]/preceding::td[1]</value>
+      <webElementGuid>3f4ddea0-cace-4032-804b-42ecd04c4ad8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Member Account'])[1]/preceding::td[2]</value>
+      <webElementGuid>42725d8d-fc45-44f7-9460-88b6b565706b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='NadyaCL Katalon']/parent::*</value>
+      <webElementGuid>0f2add9f-9705-4097-bf1d-56fcb2f763d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[2]</value>
+      <webElementGuid>43413133-835b-4f13-8dd6-960b43f0a48c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'NadyaCL Katalon' or . = 'NadyaCL Katalon')]</value>
+      <webElementGuid>c37d6d7c-ab31-4cc7-849a-06ad9f7c164c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

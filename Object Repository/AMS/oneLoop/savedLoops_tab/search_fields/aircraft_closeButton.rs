@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>aircraft_closeButton</name>
+   <tag></tag>
+   <elementGuidId>505c98e3-08f4-4cb9-b2f7-f651e1f793e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='one-loop-search']/div/div[5]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4ca52ee0-c0e2-43a4-95f9-0a0bc1baddd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>target-clear-loop-search  clear-icon</value>
+      <webElementGuid>fd7e0fd8-f43d-43bb-8490-3aaace8bc2cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;one-loop-search&quot;)/div[@class=&quot;one-loop-flex&quot;]/div[@class=&quot;loop-plan-filter&quot;]/div[@class=&quot;target-clear-loop-search  clear-icon&quot;]</value>
+      <webElementGuid>41665146-4dd0-4482-848e-1606b05936c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='one-loop-search']/div/div[5]/div</value>
+      <webElementGuid>11b05a7d-3691-422b-b54e-698c14147b22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[5]/div</value>
+      <webElementGuid>b3911829-0644-4ac3-8b88-78fad3d69844</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

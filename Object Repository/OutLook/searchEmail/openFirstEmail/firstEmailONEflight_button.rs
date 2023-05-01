@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>firstEmailONEflight_button</name>
+   <tag></tag>
+   <elementGuidId>8b959bac-cb21-4d27-91d4-088e97732279</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span[title=&quot;ONEflightWebSystem@ONEflight.net&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='O'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cf1361ec-4801-443b-9bb5-9dda698a31c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>ONEflightWebSystem@ONEflight.net</value>
+      <webElementGuid>3fb85d43-ece8-4e1c-8f74-47cd5c33ed8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ONEflight</value>
+      <webElementGuid>e41e3d5b-16a8-44a8-9b32-35c4700139f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;83036e90-b29a-5564-6358-e8b65996066e&quot;)/div[1]/div[@class=&quot;zKDWD YbB6r IKvQi epBmH&quot;]/div[@class=&quot;XG5Jd JtO0E&quot;]/div[@class=&quot;S2NDX&quot;]/div[@class=&quot;lMF6w XG5Jd&quot;]/div[@class=&quot;W3BHj gy2aJ Dc0o9 Ejrkd&quot;]/span[1]</value>
+      <webElementGuid>f5fe7fc2-3549-4ba4-8045-48baa2acd520</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='83036e90-b29a-5564-6358-e8b65996066e']/div/div/div/div[2]/div/div/span</value>
+      <webElementGuid>a67e065f-2f4d-4c00-82e6-c9ec4bd86037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='O'])[1]/following::span[1]</value>
+      <webElementGuid>eed75882-d7e4-4418-a1d2-57e10238e478</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top results'])[1]/following::span[2]</value>
+      <webElementGuid>4c1ce305-493c-4655-b557-4df1c0e7cedc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Staging: 2023_5_3_KAPA_KATL_KDEN_KMIA_OPENBAJ2023_FlightConfirmation'])[1]/preceding::span[9]</value>
+      <webElementGuid>622527bd-659f-4eb5-9222-6a5c903ad07b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tue 4:13 PM'])[1]/preceding::span[10]</value>
+      <webElementGuid>a86b58da-73ec-4b8c-b3ce-d72d82b41470</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ONEflight']/parent::*</value>
+      <webElementGuid>28b4593e-9608-453b-9d16-90375843d501</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div/span</value>
+      <webElementGuid>f7f51a36-d212-4dbe-8675-13f93f7d0cd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'ONEflightWebSystem@ONEflight.net' and (text() = 'ONEflight' or . = 'ONEflight')]</value>
+      <webElementGuid>9b0311ce-ea8a-467d-8d32-2cc9af689037</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

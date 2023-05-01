@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>baj2022Expired</name>
+   <tag></tag>
+   <elementGuidId>7d837ca7-fb63-4d58-b085-bd9fb21435fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div[2]/div[3]/div/div[2]/div/div/div[2]/div/div/div/div/div[2]/div/a[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fdc34f59-21f0-4452-8b66-c4c25aeaa3b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-xs-3</value>
+      <webElementGuid>07fe7dcc-fcec-4e48-a67b-43de3aa293d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BAJ 2022 Expired</value>
+      <webElementGuid>260838e6-aa7b-488e-aedb-1392518188d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;top_wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;body-wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;container prospect-form-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-10&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;row target-account-selector&quot;]/div[@class=&quot;accordion&quot;]/div[@class=&quot;accordion-row&quot;]/div[@class=&quot;desc&quot;]/div[@class=&quot;form-group clearfix&quot;]/a[@class=&quot;target-select-client-account&quot;]/div[@class=&quot;row select-client-account-row Active&quot;]/div[@class=&quot;col-xs-3&quot;]</value>
+      <webElementGuid>a02a5031-1219-4aca-94f0-b48df92f16b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[2]/div[3]/div/div[2]/div/div/div[2]/div/div/div/div/div[2]/div/a[2]/div/div</value>
+      <webElementGuid>62503cea-e770-4de0-b8e2-7c2084899968</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-$10,000.00'])[2]/following::div[2]</value>
+      <webElementGuid>034485e7-5884-46a3-bd02-9641d970008a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[3]/following::div[4]</value>
+      <webElementGuid>2daad585-7321-4368-bf8e-eda92b6d1865</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BAJ50'])[1]/preceding::div[2]</value>
+      <webElementGuid>f88924ca-d287-4b20-86fb-9c714b555d4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[4]/preceding::div[3]</value>
+      <webElementGuid>832fd024-3d8a-47e2-92f3-d22c01191c4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BAJ 2022 Expired']/parent::*</value>
+      <webElementGuid>5ff4116c-c44b-4877-a153-183b593005a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div/div</value>
+      <webElementGuid>7f1292c9-0c03-4d30-8987-40847b9466c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'BAJ 2022 Expired' or . = 'BAJ 2022 Expired')]</value>
+      <webElementGuid>383d2b63-6d49-4dbf-a69f-74da48d1c8c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

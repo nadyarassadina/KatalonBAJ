@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>concierge_menuItem</name>
+   <tag></tag>
+   <elementGuidId>ac0d9d5f-48f5-4833-a94b-6c8e94287375</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/div/div/div[2]/nav/ul/li[4]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Concierge&quot;] > span.label-nav</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>86e6a8c2-7c9d-4f17-8b2c-228e62a33cc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-nav</value>
+      <webElementGuid>b4cfdc26-ae6c-4827-a12b-9950cc016693</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                Concierge
+                                            </value>
+      <webElementGuid>a761d0f1-af8f-4385-8a37-a570ac38d973</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;top_wrapper&quot;]/header[@id=&quot;header&quot;]/header[@id=&quot;header&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row header flex-bottom&quot;]/div[@class=&quot;col-md-12&quot;]/nav[1]/ul[@class=&quot;navigation&quot;]/li[4]/a[1]/span[@class=&quot;label-nav&quot;]</value>
+      <webElementGuid>c1183d65-99f0-4f18-9fe2-8fc346644c9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/div/div/div[2]/nav/ul/li[4]/a/span</value>
+      <webElementGuid>23e4125c-16f1-4cd2-a8d4-6b93765caaf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operator List'])[1]/following::span[1]</value>
+      <webElementGuid>14cd74ad-7471-4167-9239-ac53d1a1bf8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Operator'])[1]/following::span[1]</value>
+      <webElementGuid>596ed3ea-73e0-48ad-a293-db498ad8c11a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vendor List'])[1]/preceding::span[1]</value>
+      <webElementGuid>ca1464e2-2d24-480e-8ead-fcb13502a3b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Concierge Manager'])[1]/preceding::span[1]</value>
+      <webElementGuid>ccb7d500-7505-4506-aad3-c9a1783fb503</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Concierge']/parent::*</value>
+      <webElementGuid>9d688e13-de7d-4b3b-b8ab-b4938ed60462</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/span</value>
+      <webElementGuid>1b6e3366-0f92-4fbd-8cec-7ccdcc2cdd0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+                                                Concierge
+                                            ' or . = '
+                                                Concierge
+                                            ')]</value>
+      <webElementGuid>ef0d2eb6-1682-4edc-bf47-862c3c0d9ed6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

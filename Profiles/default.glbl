@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://stage.bajit.com/BAJ/Home'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'rassadinanadezhda3+Client@gmail.com'</initValue>
+      <name>USERNAME</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'GDx0fluUUbKWoocyKOvGrw=='</initValue>
+      <name>PASSWORD</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

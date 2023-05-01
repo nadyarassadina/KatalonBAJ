@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>inputPageSize_textBox</name>
+   <tag></tag>
+   <elementGuidId>c96bef49-68cc-4808-9064-092fd306950f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#paginationViewModel_PageSize</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='paginationViewModel_PageSize']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>1c4da194-8015-4133-8943-95b0ed4982c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>target-page-size target-pager-input</value>
+      <webElementGuid>065e6eb4-d781-44cf-8221-8f2189414536</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4d2cffbf-b51c-4ad3-a549-9eae27c212a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-required</name>
+      <type>Main</type>
+      <value>The PageSize field is required.</value>
+      <webElementGuid>32434275-90eb-4600-ad50-0266f75d2fba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>paginationViewModel_PageSize</value>
+      <webElementGuid>57495637-4333-4b5f-9d0f-40970250fe5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>paginationViewModel.PageSize</value>
+      <webElementGuid>37f8517c-7f9e-449b-b2e6-b0a06637cc58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>10
+25
+50
+100
+</value>
+      <webElementGuid>5c3851e9-4afc-428e-b8eb-856b7bdfacaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;paginationViewModel_PageSize&quot;)</value>
+      <webElementGuid>d9dc98ab-6070-4262-82ba-f6e092b1f8f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='paginationViewModel_PageSize']</value>
+      <webElementGuid>11222b23-5510-4230-8951-e6e393049272</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='one-loop-saved-loops']/div[4]/select</value>
+      <webElementGuid>4c509f9b-f8ed-4b80-ab34-8b06ce2ef11c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page Size:'])[1]/following::select[1]</value>
+      <webElementGuid>536c36bf-1bae-44dc-9ea7-94501df699ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eugene Trujillo'])[6]/following::select[1]</value>
+      <webElementGuid>f07d6616-1abe-419a-a3d2-61cbd7e94395</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add new Loop'])[2]/preceding::select[1]</value>
+      <webElementGuid>182dbdf3-9a35-4ec8-aeff-0a82ead559e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ONELoop Settings'])[1]/preceding::select[1]</value>
+      <webElementGuid>637465af-977e-4c30-9e7e-e429938e0aab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/select</value>
+      <webElementGuid>8ae97d8c-8ae0-44a2-a327-a453a73dce7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'paginationViewModel_PageSize' and @name = 'paginationViewModel.PageSize' and (text() = '10
+25
+50
+100
+' or . = '10
+25
+50
+100
+')]</value>
+      <webElementGuid>ff257fdb-08d1-40fd-81b3-14e74f2fae45</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

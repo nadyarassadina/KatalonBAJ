@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>dropOffRentalCar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>301160ab-7162-4843-86d6-918795e308f7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4b08dc5e-c4b3-4d0b-a625-f978ec3cf545</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>70567df5-03f4-49c1-9301-4f114be11982</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7a8ca037-2b46-419c-9203-eae8abb04f12</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'select'</defaultValue>
+      <description></description>
+      <id>4b08dc5e-c4b3-4d0b-a625-f978ec3cf545</id>
+      <masked>false</masked>
+      <name>select</name>
+   </variable>
+   <variable>
+      <defaultValue>'select2'</defaultValue>
+      <description></description>
+      <id>70567df5-03f4-49c1-9301-4f114be11982</id>
+      <masked>false</masked>
+      <name>select2</name>
+   </variable>
+   <variable>
+      <defaultValue>'memberInformation'</defaultValue>
+      <description></description>
+      <id>7a8ca037-2b46-419c-9203-eae8abb04f12</id>
+      <masked>false</masked>
+      <name>memberInformation</name>
+   </variable>
+</TestCaseEntity>

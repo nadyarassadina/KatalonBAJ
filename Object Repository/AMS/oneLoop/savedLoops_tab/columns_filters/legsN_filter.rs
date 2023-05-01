@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>legsN_filter</name>
+   <tag></tag>
+   <elementGuidId>e4957fb1-741f-4c02-b60c-1389ce10bd00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='one-loop-saved-loops-table']/thead/tr/td[6]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td[name=&quot;LegN&quot;] > div.thead-arrow-div > a.target-new-sort-header</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3853144d-b3b5-4468-b356-a3a379e95d19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>578eb2f8-a126-46f6-aaec-9604a0e05f5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>target-new-sort-header</value>
+      <webElementGuid>80e16ad9-d1ff-4995-96bd-950fccfeb238</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sort</name>
+      <type>Main</type>
+      <value>LegN</value>
+      <webElementGuid>cc79ae27-8b82-41b4-8805-5e03385e1891</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            Legs N
+                        </value>
+      <webElementGuid>34d23146-80db-4f8a-93e3-bcebcad40e3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;one-loop-saved-loops-table&quot;)/thead[1]/tr[1]/td[6]/div[@class=&quot;thead-arrow-div&quot;]/a[@class=&quot;target-new-sort-header&quot;]</value>
+      <webElementGuid>38a52634-e36d-4e2e-a795-3a59237d0080</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='one-loop-saved-loops-table']/thead/tr/td[6]/div/a</value>
+      <webElementGuid>91fb3faa-f15b-4488-b377-d882d94689d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Legs N')]</value>
+      <webElementGuid>b87c0e38-797e-43fb-a16b-94f59a370eef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forward >'])[1]/following::a[6]</value>
+      <webElementGuid>7df7be61-11e5-4f84-be48-767877b0d7dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='of 4'])[1]/following::a[6]</value>
+      <webElementGuid>ae47153d-71ec-4db9-861f-bad74db56785</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(SLC) 11/28 - 11/30'])[1]/preceding::a[6]</value>
+      <webElementGuid>1878d941-94c1-4635-9788-f7fca94978da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eugene Trujillo'])[2]/preceding::a[6]</value>
+      <webElementGuid>b4d0eeb5-2e98-4d16-8e9a-4e34cf627de1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Legs N']/parent::*</value>
+      <webElementGuid>23d2b01b-a0f9-40a7-a098-74eb46c1f917</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[18]</value>
+      <webElementGuid>5c1a440f-e17b-470a-82be-e1530c16469a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/div/a</value>
+      <webElementGuid>0277fb29-be5d-45ba-b153-e24ce93d360a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = '
+                            Legs N
+                        ' or . = '
+                            Legs N
+                        ')]</value>
+      <webElementGuid>15a7d6e6-d3ae-4b7b-a586-d4a72574ffe3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

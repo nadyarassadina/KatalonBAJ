@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>vinaigretteDressing_checkBox</name>
+   <tag></tag>
+   <elementGuidId>c235bd07-8324-45de-aa19-f9fbd92a6687</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='CobbSalad-options']/li[7]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>bf7fb9f9-2781-4eb6-ad05-ee4465fef56c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>CobbSaladVinaigrette Dressing</value>
+      <webElementGuid>9a3adb43-c3bf-46dd-a804-0d64a0c5977b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vinaigrette Dressing</value>
+      <webElementGuid>fc2c23ff-7937-4294-9a99-3fe9329fdee7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CobbSalad-options&quot;)/li[7]/label[1]</value>
+      <webElementGuid>d25840a1-27d9-43b5-bf61-d2cfe6e1f747</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='CobbSalad-options']/li[7]/label</value>
+      <webElementGuid>4052fa1d-71a8-4b9c-92e1-e3448a87974d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blue Cheese Dressing'])[1]/following::label[1]</value>
+      <webElementGuid>d0fc2002-e132-49e9-bf42-1dfa55ed5162</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Caesar Dressing'])[1]/following::label[2]</value>
+      <webElementGuid>08a0cd5d-726e-438b-9673-f69e6fc1181e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Done'])[2]/preceding::label[1]</value>
+      <webElementGuid>be45a17c-8914-46df-ba15-6a793103b5c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Vinaigrette Dressing']/parent::*</value>
+      <webElementGuid>c215a5b5-c51d-4b95-8b46-c888760efd0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/label</value>
+      <webElementGuid>89e73435-7866-4104-8580-ccbc4059941b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Vinaigrette Dressing' or . = 'Vinaigrette Dressing')]</value>
+      <webElementGuid>d6caa2c3-1f44-4895-964a-d89db6471415</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

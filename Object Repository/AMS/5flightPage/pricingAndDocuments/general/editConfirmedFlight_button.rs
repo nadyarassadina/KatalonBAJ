@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>editConfirmedFlight_button</name>
+   <tag></tag>
+   <elementGuidId>1939413e-82d7-4cce-b9f5-1e9319894131</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.btn.btn-primary.btn-flight-plan.target-flight-plan-edit-confirmed-flight</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Edit Confirmed Flight']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>992fc95e-c26a-40a6-8d56-fd31eaaf448a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>336cf1c7-7092-496b-944e-3f9fd86bc500</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Edit Confirmed Flight</value>
+      <webElementGuid>c00aaf8b-78f8-4648-80c9-f6ed2991a8a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-flight-plan target-flight-plan-edit-confirmed-flight</value>
+      <webElementGuid>0f060314-626a-4698-ad3d-d84380acc1d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>Ams.EditConfirmedFlightModal();</value>
+      <webElementGuid>580111a7-c5c0-4975-95bd-c586d7b2576c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FlightPlan&quot;)/div[@class=&quot;content target-flight-plan-main&quot;]/div[@class=&quot;row ams-workflow-container&quot;]/div[@class=&quot;col-xs-8 target-flight-plan-trip-request-main&quot;]/div[@class=&quot;content target-flight-plan-trip-request-aircraft-list request-list&quot;]/div[@class=&quot;flightplanflow-window&quot;]/div[61]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/input[@class=&quot;btn btn-primary btn-flight-plan target-flight-plan-edit-confirmed-flight&quot;]</value>
+      <webElementGuid>523a4456-8732-4ac2-874a-eea35a552a74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Edit Confirmed Flight']</value>
+      <webElementGuid>6f21ac99-2135-478e-9299-96c715766106</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='FlightPlan']/div/div/div[2]/div[2]/div[2]/div[61]/div/div/div/div[2]/input</value>
+      <webElementGuid>744e7e44-32bf-4a7c-ae47-b7e70dc49c02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[61]/div/div/div/div[2]/input</value>
+      <webElementGuid>e38360fd-8814-4a74-9d19-239ddcfc61e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>5544ae1f-6dc6-4d85-98d5-a78baa39093c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

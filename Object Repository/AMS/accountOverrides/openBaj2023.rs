@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>openBaj2023</name>
+   <tag></tag>
+   <elementGuidId>5c714573-02af-4ce4-9d43-cc5a103c0b9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div[2]/div[3]/div/div[2]/div/div/div[2]/div/div/div/div/div[2]/div/a[7]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b9daca37-905a-4761-9bfb-5b6d759209d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-xs-3</value>
+      <webElementGuid>5fbab90c-1472-487d-8d80-f7c08ca91d22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OPEN BAJ 2023</value>
+      <webElementGuid>57a4ee8e-718f-4649-93e8-d9c2f6130d13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;top_wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;body-wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;container prospect-form-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-10&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;row target-account-selector&quot;]/div[@class=&quot;accordion&quot;]/div[@class=&quot;accordion-row&quot;]/div[@class=&quot;desc&quot;]/div[@class=&quot;form-group clearfix&quot;]/a[@class=&quot;target-select-client-account&quot;]/div[@class=&quot;row select-client-account-row Active&quot;]/div[@class=&quot;col-xs-3&quot;]</value>
+      <webElementGuid>ea0882bb-81f2-43fc-8499-4a0e4aab5070</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[2]/div[3]/div/div[2]/div/div/div[2]/div/div/div/div/div[2]/div/a[7]/div/div</value>
+      <webElementGuid>1528fa28-fa11-4600-8f13-cd45ba5daf2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$0.00'])[1]/following::div[2]</value>
+      <webElementGuid>8097dd99-0858-4fdc-90e2-39176b078b1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[8]/following::div[4]</value>
+      <webElementGuid>b66f710a-1cc4-432c-a9c8-fc81da471381</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open BAJ - 100K'])[1]/preceding::div[2]</value>
+      <webElementGuid>513f99d4-7e8f-4d58-a89f-ab5a6a7e3211</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[9]/preceding::div[3]</value>
+      <webElementGuid>347e7600-31dd-4cd6-88d7-9087ff77b309</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='OPEN BAJ 2023']/parent::*</value>
+      <webElementGuid>0ff6c492-66dc-4cad-93c8-764f570a9033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[7]/div/div</value>
+      <webElementGuid>d463ef11-7cd3-440e-9e84-9af673943324</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'OPEN BAJ 2023' or . = 'OPEN BAJ 2023')]</value>
+      <webElementGuid>7d6331ce-ed10-4556-b575-ba2cf46d0447</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

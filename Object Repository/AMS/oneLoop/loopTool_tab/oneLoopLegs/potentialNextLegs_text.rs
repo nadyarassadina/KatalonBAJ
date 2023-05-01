@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>potentialNextLegs_text</name>
+   <tag></tag>
+   <elementGuidId>71f71100-60e5-4e82-9369-4efb2c0b1095</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='one-loop-leg-div']/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#one-loop-leg-div > label.ams-red</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>41e36a28-291f-43bf-a742-c9816409389e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ams-red</value>
+      <webElementGuid>41856491-d545-4ef1-ae9e-edbfb90a0142</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Potential Next Legs</value>
+      <webElementGuid>0079d6e1-fe38-447a-86d6-97fdf5dcf5e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;one-loop-leg-div&quot;)/label[@class=&quot;ams-red&quot;]</value>
+      <webElementGuid>96a1159c-eb8a-498e-9f70-b51d9a2dbe50</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='one-loop-leg-div']/label</value>
+      <webElementGuid>9592ebc2-93b5-4f3d-bfb5-549adf1d86fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ratio:'])[1]/following::label[1]</value>
+      <webElementGuid>b33d508d-63e1-4b54-a15a-1b96af033827</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total:'])[1]/following::label[1]</value>
+      <webElementGuid>d7bd8e10-7a02-4a38-9976-c25f6f127c8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KLFT'])[1]/preceding::label[2]</value>
+      <webElementGuid>f15b9a46-cc56-4a2e-9390-a7fe20ec760b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTEB'])[2]/preceding::label[2]</value>
+      <webElementGuid>9eb34011-d917-422e-a7df-aa93473ecfe9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Potential Next Legs']/parent::*</value>
+      <webElementGuid>01f57a24-26c2-49c9-bc7c-10b655b98261</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/label</value>
+      <webElementGuid>4ed95703-c5e3-4040-96ee-82a7398c8fb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Potential Next Legs' or . = 'Potential Next Legs')]</value>
+      <webElementGuid>390ff2e7-ed3b-427b-ac8f-86ef1d74564a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

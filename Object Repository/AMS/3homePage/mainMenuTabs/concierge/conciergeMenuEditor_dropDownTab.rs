@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>conciergeMenuEditor_dropDownTab</name>
+   <tag></tag>
+   <elementGuidId>29c28aaa-0ec7-4fac-b5f9-2aafdd2b81db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/div/div/div[2]/nav/ul/li[4]/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Concierge Menu Editor&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>30bd732b-e7f4-4352-921d-742add887089</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Concierge/ConciergeMenu</value>
+      <webElementGuid>e161b297-28bf-444e-b25c-b92cb432021b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Concierge Menu Editor</value>
+      <webElementGuid>cb8d4496-7759-4fec-ae63-1a462c374ee0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Concierge Menu Editor</value>
+      <webElementGuid>8bf23f90-3d5b-40ec-9f6a-1303d4feefb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;top_wrapper&quot;]/header[@id=&quot;header&quot;]/header[@id=&quot;header&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row header flex-bottom&quot;]/div[@class=&quot;col-md-12&quot;]/nav[1]/ul[@class=&quot;navigation&quot;]/li[4]/ul[@class=&quot;show-sub-menu&quot;]/li[3]/a[1]</value>
+      <webElementGuid>ef4c7cb0-b9c8-47a7-a75e-e0223b3113d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/div/div/div[2]/nav/ul/li[4]/ul/li[3]/a</value>
+      <webElementGuid>07c27b92-1b32-41c9-86cb-ca361ef121d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Concierge Menu Editor')]</value>
+      <webElementGuid>26445d9c-9c6e-420a-aefa-d12680f66dd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Concierge Manager'])[1]/following::a[1]</value>
+      <webElementGuid>8043594c-6975-409a-81f6-65382cddf0eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vendor List'])[1]/following::a[2]</value>
+      <webElementGuid>97f97317-56c6-4140-a97a-ebde049cf282</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Client Payment Reasons'])[1]/preceding::a[1]</value>
+      <webElementGuid>efc2b014-4baf-40d6-bd2f-eba558e499eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tools'])[1]/preceding::a[2]</value>
+      <webElementGuid>4001c5db-5ff8-4917-95cc-79c27dcb2a7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Concierge Menu Editor']/parent::*</value>
+      <webElementGuid>ee947dfd-554e-4e96-886a-7fa04523850f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Concierge/ConciergeMenu')]</value>
+      <webElementGuid>f62ce261-37a7-44f3-b994-cb69c6508aef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li[3]/a</value>
+      <webElementGuid>f41b547f-3ff6-4bbd-acb4-28e0b8fe4f78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Concierge/ConciergeMenu' and @title = 'Concierge Menu Editor' and (text() = 'Concierge Menu Editor' or . = 'Concierge Menu Editor')]</value>
+      <webElementGuid>c6adbd92-eaf7-4504-87ef-4d02bed8cbd3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

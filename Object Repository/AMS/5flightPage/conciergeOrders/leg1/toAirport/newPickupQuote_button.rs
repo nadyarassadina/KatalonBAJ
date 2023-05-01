@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>newPickupQuote_button</name>
+   <tag></tag>
+   <elementGuidId>c39504ea-a0ff-4f1f-97ea-5f352e396ca9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='New Pickup Quote']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#pickup-quotes-leg-1 > div.panel-body > div.row > div.col-xs-12.col-sm-3 > div > input.baj-btn.target-new-concierge-quote</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>90dcfa2e-05aa-4c88-8000-ce660f96312d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ce62a03a-da6f-433c-8035-87882ddecd4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-quote-type</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>892cb7f6-75bb-44d6-a325-73ba7e5ab800</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-leg-id</name>
+      <type>Main</type>
+      <value>909635</value>
+      <webElementGuid>cf7c3d2b-64f0-4350-97e7-9fdb0b69181c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-leg-number</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>ba8e78a5-dabd-4c11-951d-7c7fec9e5914</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>New Pickup Quote</value>
+      <webElementGuid>54665f64-b8e7-4808-b0e5-4d42824944de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>baj-btn target-new-concierge-quote</value>
+      <webElementGuid>3b82b7b7-1b04-492f-8094-9c6425b81481</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pickup-quotes-leg-1&quot;)/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 col-sm-3&quot;]/div[1]/input[@class=&quot;baj-btn target-new-concierge-quote&quot;]</value>
+      <webElementGuid>0932c09b-bc95-4a3a-8d52-891d970a4fd5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='New Pickup Quote']</value>
+      <webElementGuid>511034f2-4603-414c-b0e4-cd0aa9f2df71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pickup-quotes-leg-1']/div/div/div[2]/div/input</value>
+      <webElementGuid>04ccd4b0-e893-44d7-8ff1-041564e27186</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div[2]/div/input</value>
+      <webElementGuid>f0c570ad-080c-4a53-83ba-dc2b98800ed1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>71596358-8ace-4f15-a18e-06fd9dcc7b05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>continue_button</name>
+   <tag></tag>
+   <elementGuidId>668c1679-3fbe-4138-9b32-1b59f905f10d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value='Continue >>'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ConciergeForm > div.col-xs-12.text-center > input.baj-btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>0253a8e1-168d-4301-bab8-c5541a14a212</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e745d5ec-3c76-4cd8-92bd-5f184c6756d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Continue >></value>
+      <webElementGuid>22e769b9-c3f7-4004-b8a5-8e44e99379a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>baj-btn</value>
+      <webElementGuid>c889b104-0bd3-419f-953f-ac50a7a71cd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-step</name>
+      <type>Main</type>
+      <value>BAJ_Concierge</value>
+      <webElementGuid>e4b2fc1f-cd88-4bd4-9742-5aede7d0fccf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>BAJ.BajResultsSaveConciergeOrder(this);</value>
+      <webElementGuid>ba534d7d-d873-491b-9546-377d30c4f641</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ConciergeForm&quot;)/div[@class=&quot;col-xs-12 text-center&quot;]/input[@class=&quot;baj-btn&quot;]</value>
+      <webElementGuid>6e7e6936-3486-481c-bac4-4cfc7084579d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value='Continue >>'])[2]</value>
+      <webElementGuid>8bcba0e9-b52a-413e-8907-66fb379996d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='ConciergeForm']/div[7]/input</value>
+      <webElementGuid>c146632f-9f3f-437a-b479-c971dad59472</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/input</value>
+      <webElementGuid>66e625b6-e863-4452-b33f-2c5aaa18329d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>b8ca3647-fffe-48e5-87fa-efaa5171178e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bookAJet_button</name>
+   <tag></tag>
+   <elementGuidId>8f7db1dc-02c7-42a8-b12d-fb8f040a0b8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.dropdown.singleDrop.open > a.dropdown-toggle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menucontainer']/span/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7a0309d0-c0f8-4f08-a0fd-52998e419184</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-toggle</value>
+      <webElementGuid>b1cd586b-b1f7-4935-9226-b5995f469692</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/BAJ/FlightSearch</value>
+      <webElementGuid>3d2ca21a-150e-4a65-b804-5dc1848724d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Book A Jet</value>
+      <webElementGuid>80c6dab5-0166-495f-9d9d-713f139ed0e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menucontainer&quot;)/span[@class=&quot;collapse navbar-collapse navbar-ex1-collapse target-flight-search-menu-bar&quot;]/ul[@class=&quot;nav navbar-nav navbar-right&quot;]/li[@class=&quot;dropdown singleDrop  open&quot;]/a[@class=&quot;dropdown-toggle&quot;]</value>
+      <webElementGuid>8e6cda30-f77e-4605-a4b5-a34ce4f35505</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menucontainer']/span/ul/li[2]/a</value>
+      <webElementGuid>08cbce93-1bea-4977-9b94-1f81669bf4bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Book A Jet')]</value>
+      <webElementGuid>0cb68c66-87cb-43b6-b5b8-99a1c5dce52d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flight Tracking'])[1]/following::a[1]</value>
+      <webElementGuid>3f1654a0-736b-4e4c-82bf-d042112bf8db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Empty Legs'])[1]/preceding::a[1]</value>
+      <webElementGuid>b5c0c896-fe7c-4bbf-a6e1-f81cab2bbd25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Members'])[1]/preceding::a[2]</value>
+      <webElementGuid>95c4ac22-6ea4-4723-85e3-9172b7e37642</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Book A Jet']/parent::*</value>
+      <webElementGuid>1296e6f1-f252-4624-99ac-7c35f6b588f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/BAJ/FlightSearch')]</value>
+      <webElementGuid>2887fbae-1876-470a-b2a7-93d87d63c0b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>27cb66bd-6a6e-45cb-8c8b-5f4cbd383bcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/BAJ/FlightSearch' and (text() = 'Book A Jet' or . = 'Book A Jet')]</value>
+      <webElementGuid>e58613eb-3459-40a1-82f5-f8f44a2ff2d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ranchDressing_checkBox</name>
+   <tag></tag>
+   <elementGuidId>280c3381-2fea-452e-ac8d-7fb1fd8f2f5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='CobbSalad-options']/li[4]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>0a4582a3-3380-444e-a632-81327d1b4d77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>CobbSaladRanch Dressing</value>
+      <webElementGuid>6e0a6f36-8170-4c42-b1d9-e6d5fa9c4022</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ranch Dressing</value>
+      <webElementGuid>56a5d26d-88f9-4aae-bced-c629b6d88f23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CobbSalad-options&quot;)/li[4]/label[1]</value>
+      <webElementGuid>6651064e-938c-4b67-ae2c-e789424caa44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='CobbSalad-options']/li[4]/label</value>
+      <webElementGuid>a093ff9c-6a4d-43df-8c3b-0409688245fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Turkey Breast'])[1]/following::label[1]</value>
+      <webElementGuid>dafc44a3-26c3-401d-980d-86552ecdea26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shredded Chicken'])[1]/following::label[2]</value>
+      <webElementGuid>6da0bd50-9243-49a5-afde-c4f65cae068f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Caesar Dressing'])[1]/preceding::label[1]</value>
+      <webElementGuid>d856c9d9-731e-45fb-8868-f9694425f005</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blue Cheese Dressing'])[1]/preceding::label[2]</value>
+      <webElementGuid>b6c47e74-0a53-4d63-ba8f-b9aef9bd23ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ranch Dressing']/parent::*</value>
+      <webElementGuid>8b912725-db1e-4b39-ac23-3ad93426fb16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/h4[2]/ul/li[4]/label</value>
+      <webElementGuid>33e4544a-77ca-45a5-8ec0-39cb04531c8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Ranch Dressing' or . = 'Ranch Dressing')]</value>
+      <webElementGuid>cd04f8c9-ae6c-4ae5-89ec-dce15bd8542a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

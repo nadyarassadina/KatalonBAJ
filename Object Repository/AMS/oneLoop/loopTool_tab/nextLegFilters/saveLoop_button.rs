@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>saveLoop_button</name>
+   <tag></tag>
+   <elementGuidId>f2fcf074-91f7-407b-8d14-51d36b10c556</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Save Loop']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.button-one-loop.target-one-loop-save-loop</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>900122c1-25a4-4c1e-94b9-be19f9be6966</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>065b8cc7-f4a6-4432-a151-a3cf00ec1064</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-one-loop target-one-loop-save-loop</value>
+      <webElementGuid>b3a08929-3674-4f08-af81-3151683822ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Save Loop</value>
+      <webElementGuid>4236e44b-d9c7-40f7-bcbc-d1b316228e68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>disabled</name>
+      <type>Main</type>
+      <value>disabled</value>
+      <webElementGuid>52869bed-c752-400a-b822-44eed5573a9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;LoopTool&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-2&quot;]/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-body target-inputs-panel&quot;]/div[@class=&quot;one-loop-flex-column&quot;]/fieldset[2]/div[@class=&quot;one-loop-input-parameter-div&quot;]/div[3]/input[@class=&quot;button-one-loop target-one-loop-save-loop&quot;]</value>
+      <webElementGuid>7c4d7367-7027-4cec-a75d-fea8569994cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Save Loop']</value>
+      <webElementGuid>cea4f999-d22c-4bec-9de9-b8c8173863a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='LoopTool']/div[2]/div/div/div/div/fieldset[2]/div[2]/div[3]/input[2]</value>
+      <webElementGuid>ec8d5a9f-5d30-4ea1-a220-8ad3f2522d73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/input[2]</value>
+      <webElementGuid>21f3ed7a-9971-48f3-9f89-b20d39929646</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>1029fda7-4353-40dd-bf6e-e09f057084e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

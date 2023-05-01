@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>flightCostClose_button</name>
+   <tag></tag>
+   <elementGuidId>de0f6922-318c-4075-80e7-976a8053680c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.glyphicon.glyphicon-triangle-top.bad.pull-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ONEflightDownDropDiv']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>92e1d71a-a4af-4616-b4fb-ed42ccf44a0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-triangle-top bad pull-right</value>
+      <webElementGuid>7bb7f425-506f-44d8-aa2e-11f7290c41b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ONEflightDownDropDiv&quot;)/div[@class=&quot;glyphicon glyphicon-triangle-top bad pull-right&quot;]</value>
+      <webElementGuid>a83b67e7-8ebc-411a-af68-1e48b5872c3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ONEflightDownDropDiv']/div</value>
+      <webElementGuid>e8a29362-b09e-4c89-a8b5-059fa293a1f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div[2]/div</value>
+      <webElementGuid>3090e205-02c4-4604-903e-f7a8787f07a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

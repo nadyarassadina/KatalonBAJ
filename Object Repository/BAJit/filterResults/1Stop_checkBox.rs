@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>1Stop_checkBox</name>
+   <tag></tag>
+   <elementGuidId>478befe8-4964-4336-871f-68b34d4baea3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#FuelStopsPanel > div.panel-body > div.check-box-list > div.row > div.form-check.col-sm-12.medium-padding > label.checkbox-custom-label.form-check-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='FuelStopsPanel']/div/div/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>35c4feaf-173c-48d6-b02d-8143e4d295e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>Stops1</value>
+      <webElementGuid>2806a69c-c996-49f4-bdaa-156425e9dce7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkbox-custom-label form-check-label</value>
+      <webElementGuid>5079ce5a-0f7c-4f21-8e96-ea5261bed8bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1 Stop</value>
+      <webElementGuid>f381ca23-bb12-4093-90a1-cca64c5e310c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FuelStopsPanel&quot;)/div[@class=&quot;panel-body&quot;]/div[@class=&quot;check-box-list&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;form-check col-sm-12 medium-padding&quot;]/label[@class=&quot;checkbox-custom-label form-check-label&quot;]</value>
+      <webElementGuid>257457e8-78ff-4a2c-9517-fe42d5a37fe8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='FuelStopsPanel']/div/div/div/div/label</value>
+      <webElementGuid>7cb85a02-9b25-47bc-af47-57d908a98869</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fuel Stops'])[1]/following::label[1]</value>
+      <webElementGuid>bc709bb3-01f0-4ba0-8f33-5b4478419748</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(37)'])[1]/following::label[1]</value>
+      <webElementGuid>14fd57c3-370e-4fd9-a06b-de84230d04d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Stops'])[1]/preceding::label[1]</value>
+      <webElementGuid>8d407bec-b05c-491d-8343-f0b668a229a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Safety Ratings'])[1]/preceding::label[2]</value>
+      <webElementGuid>6b884b10-aea4-4f0c-8f98-f46331f53c85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1 Stop']/parent::*</value>
+      <webElementGuid>67b57b39-c819-449e-ae1c-fe359b4ff9f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/label</value>
+      <webElementGuid>f8ec3751-9790-4088-96bb-1defd109981b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '1 Stop' or . = '1 Stop')]</value>
+      <webElementGuid>2caedbca-0e03-40d2-a822-fd233a8f439d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
