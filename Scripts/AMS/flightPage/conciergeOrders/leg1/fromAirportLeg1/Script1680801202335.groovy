@@ -17,33 +17,33 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.scrollToElement(findTestObject('AMS/5flightPage/conciergeOrders/leg1/fromAirport/fromAirport_tab'), 30)
+WebUI.scrollToElement(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1from/fromAirport_tab'), 30)
 
-WebUI.click(findTestObject('AMS/5flightPage/conciergeOrders/leg1/fromAirport/fromAirport_tab'))
+WebUI.click(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1from/fromAirport_tab'))
 
-WebUI.click(findTestObject('AMS/5flightPage/conciergeOrders/leg1/fromAirport/newDropoffQuote_button'))
+WebUI.click(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1from/newDropoffQuote_button'))
 
-WebUI.selectOptionByLabel(findTestObject('AMS/5flightPage/conciergeOrders/leg1/fromAirport/selectQuoteType_dropDown'), quoteType, 
+WebUI.selectOptionByLabel(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1from/selectQuoteType_dropDown'), quoteType, 
     false)
 
-WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/fromAirport/rentalCar/membershipNumber_textBox'), membershipNumber)
+WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1from/rental/membershipNumber_textBox'), membershipNumber)
 
-WebUI.selectOptionByLabel(findTestObject('AMS/5flightPage/conciergeOrders/leg1/fromAirport/rentalCar/selectAVendor_dropDown'), 
+WebUI.selectOptionByLabel(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1from/rental/selectAVendor_dropDown'), 
     vendor, false)
 
-WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/fromAirport/rentalCar/internalNote_textBox'), internalNote)
+WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1from/rental/internalNote_textBox'), internalNote)
 
-WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/fromAirport/rentalCar/quotedAmount_textBox'), quotedAmount)
+WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1from/rental/quotedAmount_textBox'), quotedAmount)
 
-WebUI.scrollToElement(findTestObject('AMS/5flightPage/conciergeOrders/leg1/fromAirport/rentalCar/save_button'), 30)
+WebUI.scrollToElement(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1from/rental/save_button'), 30)
 
-WebUI.click(findTestObject('AMS/5flightPage/conciergeOrders/leg1/fromAirport/rentalCar/save_button'))
+WebUI.click(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1from/rental/save_button'))
 
 WebUI.verifyTextPresent('Success', false)
 
-WebUI.scrollToElement(findTestObject('AMS/5flightPage/conciergeOrders/leg1/general/sendConfirmationToClient_button'), 30)
+WebUI.scrollToElement(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1general/sendConfToClient_button'), 30)
 
-WebUI.click(findTestObject('AMS/5flightPage/conciergeOrders/leg1/general/sendConfirmationToClient_button'))
+WebUI.click(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1general/sendConfToClient_button'))
 
 WebUI.verifyTextPresent('Success', false)
 

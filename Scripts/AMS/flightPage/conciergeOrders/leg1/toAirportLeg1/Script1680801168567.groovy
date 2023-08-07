@@ -17,65 +17,65 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.scrollToElement(findTestObject('AMS/5flightPage/conciergeOrders/leg1/toAirport/toAirport_tab'), 30)
+WebUI.scrollToElement(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1to/toAirport_tab'), 30)
 
-WebUI.click(findTestObject('AMS/5flightPage/conciergeOrders/leg1/toAirport/toAirport_tab'))
+WebUI.click(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1to/toAirport_tab'))
 
-WebUI.click(findTestObject('AMS/5flightPage/conciergeOrders/leg1/toAirport/newPickupQuote_button'))
+WebUI.click(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1to/newPickupQuote_button'))
 
-WebUI.selectOptionByLabel(findTestObject('AMS/5flightPage/conciergeOrders/leg1/toAirport/selectQuoteTypedropDown'), quoteType, 
+WebUI.selectOptionByLabel(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1to/selectQuoteTypedropDown'), quoteType, 
     false)
 
-WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/toAirport/executiveService/customerPickupAddress1_textBox'), 
+WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1to/executive/PickupAddress1_textBox'), 
     address1)
 
-WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/toAirport/executiveService/customerPickupAddressCity_textBox'), 
+WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1to/executive/PickupAddressCity_textBox'), 
     city)
 
-WebUI.selectOptionByLabel(findTestObject('AMS/5flightPage/conciergeOrders/leg1/toAirport/executiveService/selectState_dropDown'), 
+WebUI.selectOptionByLabel(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1to/executive/selectState_dropDown'), 
     state, false)
 
-WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/toAirport/executiveService/customerPickupAddressZip_textBox'), 
+WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1to/executive/PickupAddressZip_textBox'), 
     zip)
 
-WebUI.click(findTestObject('AMS/5flightPage/conciergeOrders/leg1/toAirport/executiveService/customerPickupAddress2_textBox'))
+WebUI.click(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1to/executive/PickupAddress2_textBox'))
 
-WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/toAirport/executiveService/internalN'), internalNote)
+WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1to/executive/internalN'), internalNote)
 
-WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/toAirport/executiveService/note'), noteForVendor)
+WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1to/executive/note'), noteForVendor)
 
-WebUI.scrollToElement(findTestObject('AMS/5flightPage/conciergeOrders/leg1/toAirport/executiveService/skipEmail_button'), 
+WebUI.scrollToElement(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1to/executive/skipEmail_button'), 
     30)
 
-WebUI.click(findTestObject('AMS/5flightPage/conciergeOrders/leg1/toAirport/executiveService/skipEmail_button'))
+WebUI.click(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1to/executive/skipEmail_button'))
 
-WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/toAirport/executiveService/sUV_textBox'), suv)
+WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1to/executive/sUV_textBox'), suv)
 
-WebUI.scrollToElement(findTestObject('AMS/5flightPage/conciergeOrders/leg1/toAirport/executiveService/selectAVendor_dropDown'), 
+WebUI.scrollToElement(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1to/executive/selectAVendor_dropDown'), 
     30)
 
-WebUI.selectOptionByLabel(findTestObject('AMS/5flightPage/conciergeOrders/leg1/toAirport/executiveService/selectAVendor_dropDown'), 
+WebUI.selectOptionByLabel(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1to/executive/selectAVendor_dropDown'), 
     vendor, false)
 
-WebUI.scrollToElement(findTestObject('AMS/5flightPage/conciergeOrders/leg1/toAirport/executiveService/quotedAmount_textBox'), 
+WebUI.scrollToElement(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1to/executive/quotedAmount_textBox'), 
     30)
 
-WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/toAirport/executiveService/quotedAmount_textBox'), quotedAmount)
+WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1to/executive/quotedAmount_textBox'), quotedAmount)
 
-WebUI.selectOptionByLabel(findTestObject('AMS/5flightPage/conciergeOrders/leg1/toAirport/executiveService/clientPaymentType_dropDown'), 
+WebUI.selectOptionByLabel(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1to/executive/clientPayType_dropDown'), 
     clientPaymentType, false)
 
-WebUI.selectOptionByLabel(findTestObject('AMS/5flightPage/conciergeOrders/leg1/toAirport/executiveService/clientFull/clientPaymentReason_dropDown'), 
+WebUI.selectOptionByLabel(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1to/executive/Full/clientPayR_dropDown'), 
     clientPaymentReason, false)
 
-WebUI.scrollToElement(findTestObject('AMS/5flightPage/conciergeOrders/leg1/toAirport/executiveService/clientFull/clientPaymentNote_textBox'), 
+WebUI.scrollToElement(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1to/executive/Full/clientPayNote_textBox'), 
     30)
 
-WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/toAirport/executiveService/clientFull/clientPaymentNote_textBox'), 
+WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1to/executive/Full/clientPayNote_textBox'), 
     clientPaymentNote)
 
-WebUI.scrollToElement(findTestObject('AMS/5flightPage/conciergeOrders/leg1/toAirport/executiveService/saveRequest_button'), 
+WebUI.scrollToElement(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1to/executive/saveRequest_button'), 
     30)
 
-WebUI.click(findTestObject('AMS/5flightPage/conciergeOrders/leg1/toAirport/executiveService/saveRequest_button'))
+WebUI.click(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1to/executive/saveRequest_button'))
 

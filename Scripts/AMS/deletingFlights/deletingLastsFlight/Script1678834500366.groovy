@@ -21,11 +21,11 @@ WebUI.callTestCase(findTestCase('AMS/logInAsSuperAdmin'), [:], FailureHandling.S
 
 WebUI.click(findTestObject('AMS/3homePage/mainMenuTabs/home/home_menuItem'))
 
-WebUI.setText(findTestObject('AMS/3homePage/searchHomePage_field'), 'Nadya')
+WebUI.setText(findTestObject('AMS/3homePage/searchHomePage_field'), 'NadyaCL')
 
 WebUI.click(findTestObject('AMS/3homePage/goHomePage_button'))
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('AMS/4searchClientFlights/member/nadyaCLKatalon_object'))
 
 WebUI.click(findTestObject('AMS/4searchClientFlights/member/firstFlights_tab'))
 

@@ -19,38 +19,38 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.click(findTestObject('AMS/5flightPage/conciergeOrders/conciergeOrders_tab'))
 
-WebUI.click(findTestObject('AMS/5flightPage/conciergeOrders/leg1/catering/cateringQuotes_tab'))
+WebUI.click(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1catering/cateringQuotes_tab'))
 
-WebUI.click(findTestObject('AMS/5flightPage/conciergeOrders/leg1/catering/newCateringQuote_button'))
+WebUI.click(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1catering/newCateringQuote_button'))
 
-WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/catering/currentCateringRequest_textBox'), currentCateringRequest)
+WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1catering/currentCaterReq_textBox'), currentCateringRequest)
 
-WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/catering/internalNote_textBox'), internalNote)
+WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1catering/internalNote_textBox'), internalNote)
 
-WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/catering/noteForVendor_textBox'), noteForVendor)
+WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1catering/noteForVendor_textBox'), noteForVendor)
 
-WebUI.click(findTestObject('AMS/5flightPage/conciergeOrders/leg1/catering/skipEmail_button'))
+WebUI.click(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1catering/skipEmail_button'))
 
-WebUI.selectOptionByLabel(findTestObject('AMS/5flightPage/conciergeOrders/leg1/catering/selectAVendor_dropDown'), vendor, 
+WebUI.selectOptionByLabel(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1catering/selectAVendor_dropDown'), vendor, 
     false)
 
-WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/catering/quotedAmount_textBox'), quotedAmount)
+WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1catering/quotedAmount_textBox'), quotedAmount)
 
-WebUI.click(findTestObject('AMS/5flightPage/conciergeOrders/leg1/catering/internalNote_textBox'))
+WebUI.click(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1catering/internalNote_textBox'))
 
-WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/catering/budgetOverageReason_textBox'), budgetOverage)
+WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1catering/budgetOverReas_textBox'), budgetOverage)
 
-WebUI.selectOptionByLabel(findTestObject('AMS/5flightPage/conciergeOrders/leg1/catering/clientPaymentType_dropDown'), clientPaymentType, 
+WebUI.selectOptionByLabel(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1catering/clientPaymType_dropDown'), clientPaymentType, 
     false)
 
-WebUI.selectOptionByLabel(findTestObject('AMS/5flightPage/conciergeOrders/leg1/catering/clientPartialPayment/selectPaymentReason_dropDown'), 
+WebUI.selectOptionByLabel(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1catering/Partial/selectPayR_dropDown'), 
     clientPaymentReason, false)
 
-WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/catering/clientPartialPayment/clientAmount_textBox'), 
+WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1catering/Partial/clientAmount_textBox'), 
     clientAmount)
 
-WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/catering/clientPartialPayment/clientPaymentNote_textBox'), 
+WebUI.setText(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1catering/Partial/clientPayNote_textBox'), 
     clientPaymentNote)
 
-WebUI.click(findTestObject('AMS/5flightPage/conciergeOrders/leg1/catering/saveRequest_button'))
+WebUI.click(findTestObject('AMS/5flightPage/conciergeOrders/leg1/L1catering/saveRequest_button'))
 

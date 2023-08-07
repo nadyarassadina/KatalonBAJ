@@ -850,7 +850,7 @@
       <guid>4a14aaf8-6107-4ab6-9ade-5fa2928423b2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AMS/flightPage/20QuotesComplete/20QuotesCompleteTest5</testCaseId>
+      <testCaseId>Test Cases/AMS/flightPage/20QuotesComplete/20QuotesCompleteTest5and3</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>2e074624-519b-46a8-b40f-86597f9ad2f9</id>
